@@ -6,4 +6,4 @@ coverY: 0
 
 ## Overview
 
-Welcome to&#x20;
+Welcome to your GitBook - this is a community managed resource to support&#x20;

@@ -7,7 +7,7 @@
 * [Announcements](information/announcements.md)
 * [Meet the IOHK Team](information/meet-the-iohk-team.md)
 
-## The Formal Stuff
+## Coordinator Processes
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Onboarding](coordinator-processes/onboarding.md)
+* [Funds](coordinator-processes/funds.md)
