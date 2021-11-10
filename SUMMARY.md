@@ -5,7 +5,7 @@
 ## Information
 
 * [Announcements](information/announcements.md)
-* [Meet the Team!](information/meet-the-team.md)
+* [Meet the IOHK Team](information/meet-the-iohk-team.md)
 
 ## The Formal Stuff
 
