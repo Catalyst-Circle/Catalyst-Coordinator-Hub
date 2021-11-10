@@ -12,3 +12,7 @@
 
 * [Onboarding](coordinator-processes/onboarding.md)
 * [Funds](coordinator-processes/funds.md)
+
+## Catalyst Circle
+
+* [Nominations and Statements](catalyst-circle/nominations-and-statements.md)
