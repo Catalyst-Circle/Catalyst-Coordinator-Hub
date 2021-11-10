@@ -6,6 +6,7 @@
 
 * [Announcements](information/announcements.md)
 * [Meet the IOHK Team](information/meet-the-iohk-team.md)
+* [Meetings](information/meetings.md)
 
 ## Coordinator Processes
 
