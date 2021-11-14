@@ -13,6 +13,7 @@
 
 * [Onboarding](coordinator-processes/onboarding.md)
 * [Funds](coordinator-processes/funds.md)
+* [Reporting](coordinator-processes/reporting.md)
 
 ## Catalyst Circle
 
