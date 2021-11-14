@@ -8,7 +8,7 @@ cover: .gitbook/assets/2021-11-14 (18).png
 
 ### On-boarding
 
-Once funded you will be required to attend an [on-boarding](coordinator-processes/onboarding.md) meeting for "proof of life".
+Once funded you will receive an email providing instructions and you will be required to attend an on-boarding meeting for "proof of life".
 
 {% hint style="info" %}
 See the [on-boarding section](https://quality-assurance-dao.gitbook.io/catalyst-coordinator/coordinator-processes/onboarding) for further information
