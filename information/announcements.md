@@ -7,6 +7,16 @@ coverY: 0
 
 # Announcements
 
+### Just distributed next batch of funds
+
+\[Forwarded from Catalyst Coordinator Announcements (Daniel Ribar - beware of scam)] 👋 Greetings
+
+Just distributed next batch of funds - please check your wallets. 👛
+
+F4️⃣ funds distribution where eligible F5️⃣ funds distribution where eligible F6️⃣ first batch distribution where eligible
+
+{% embed url="https://t.me/c/1556514618/1226" %}
+
 ### Test transactions are being distributed today.
 
 \[Forwarded from Catalyst Coordinator Announcements (Daniel Ribar - beware of scam)] 👋
