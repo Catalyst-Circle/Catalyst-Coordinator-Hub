@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome Catalyst Coordinators](README.md)
+* [Feedback](feedback.md)
 
 ## Information
 
