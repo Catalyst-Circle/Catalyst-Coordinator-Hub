@@ -30,7 +30,9 @@ On the 10th of every month you are required to complete a progress report via a 
 
 On the 26th of every month you are required to submit a Key Performance Indicator (KPI) via a Google form.
 
-
+{% hint style="info" %}
+See the [Reporting section](coordinator-processes/reporting.md) for further information
+{% endhint %}
 
 
 
