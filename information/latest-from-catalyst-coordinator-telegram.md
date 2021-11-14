@@ -40,3 +40,32 @@ Quick heads up - in an effort to bring more clarity and accountability to the co
 
 {% embed url="https://t.me/c/1556514618/1112" %}
 
+### LAST CALL: Catalyst BoostCamp #2&#x20;
+
+\[Forwarded from Catalyst Coordinator Announcements (Daniel Ribar - beware of scam)] \[ Photo ] 🥁
+
+LAST CALL: Catalyst BoostCamp #2 applications coming to a close
+
+👉 Places are limited to F2-F5 Cohorts only. If you are F6 Cohort member - there’ll be another opportunity for you in the future.
+
+👉 Apply now: Catalyst Boost Camp Application (https://catalyst.entreprenerdy.com/)
+
+🏁 Deadline: Wed, 10 Nov 2021 at 11PM UTC time
+
+Selected entrepreneurs will be notified by Nov 13
+
+👉 Start: The first session will be on Nov 15. 9 x 90 minute sessions over a 4 week period. Times TBD.
+
+🤔 What is it?
+
+This is a 4-week online bootcamp programme, exclusive to Catalyst supported entrepreneurs. It is bootstrapped by IOG and is offered free of charge. You can see more information here (https://docs.google.com/presentation/d/1EFFZaYiS08OrdkJJx3vEnKtvdqwHHfRF/edit?usp=sharing\&ouid=117059928304090739258\&rtpof=true\&sd=true)
+
+This academically driven boost camp focuses
+
+👉 On unpacking your ideas 👉 Exploring the alignment of them to what’s happening in the market 👉 Learning how to assess market potential 👉 And understanding the funding and partnership landscape that will be important to take your ideas forward
+
+📝 More via this email (https://mailchi.mp/iohk/g6qpccne38-674393) circulated to selected Cohorts
+
+🤝 Questions? Just ask.
+
+{% embed url="https://t.me/c/1556514618/1095" %}
