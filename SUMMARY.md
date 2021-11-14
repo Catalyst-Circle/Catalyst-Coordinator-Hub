@@ -5,7 +5,7 @@
 
 ## Information
 
-* [Announcements](information/announcements.md)
+* [Latest from Catalyst-Coordinator Telegram](information/latest-from-catalyst-coordinator-telegram.md)
 * [Meet the IOHK Team](information/meet-the-iohk-team.md)
 * [Meetings](information/meetings.md)
 
