@@ -1,5 +1,7 @@
 ---
 description: Coordinator Meeting Recordings
+cover: ../.gitbook/assets/coord.png
+coverY: 0
 ---
 
 # Meetings
