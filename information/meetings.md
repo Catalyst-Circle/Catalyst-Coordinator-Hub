@@ -8,6 +8,8 @@ coverY: 0
 
 ## November 16th, 2021
 
+### Slides
+
 {% embed url="https://docs.google.com/presentation/d/1OxU4fhtBPiSgGtKJTrVANdLSqho_5ctb5eHaXXovMBg/edit?usp=sharing" %}
 
 ## October 19th, 2021
