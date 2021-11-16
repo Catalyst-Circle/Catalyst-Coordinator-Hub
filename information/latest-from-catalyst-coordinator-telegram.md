@@ -6,6 +6,12 @@ coverY: 0
 
 # Latest from Catalyst-Coordinator Telegram
 
+## Last Call: We are about to go live for Coordinator meeting
+
+#### 16th November 2021
+
+\[Forwarded from Catalyst Coordinator Announcements (Daniel Ribar - beware of scam)] 🥁 Last Call: We are about to go live for Coordinator meeting. Register via this link https://bit.ly/37kHZFB and join us! 🤝
+
 ## Coordinator meeting later today&#x20;
 
 #### 16th November 2021
