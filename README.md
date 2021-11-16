@@ -40,6 +40,12 @@ See the [Reporting section](coordinator-processes/reporting.md) for further info
 
 
 
+## Coordinator (Funded Cohort) Meetings
 
 
-###
+
+Coordinator (Funded Cohort) Meetings are held every two weeks.  The IOHK Team hosts and presents relevant announcements and information. Then Coordinators give "Stand up" updates on their proposals.&#x20;
+
+{% hint style="info" %}
+See the [Meetings section](information/meetings.md) for further information
+{% endhint %}
