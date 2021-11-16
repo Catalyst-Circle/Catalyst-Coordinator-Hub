@@ -16,7 +16,7 @@ See the [on-boarding section](https://quality-assurance-dao.gitbook.io/catalyst-
 
 ### Funds
 
-After you have completed a "proof of life" you will receive a [test transaction](https://quality-assurance-dao.gitbook.io/catalyst-coordinator/coordinator-processes/funds#test-transactions) to the ADA wallet you specified in your on-boarding form.
+After you have completed a "_proof of life_" you will receive a [test transaction](https://quality-assurance-dao.gitbook.io/catalyst-coordinator/coordinator-processes/funds#test-transactions) to the ADA wallet you specified in your on-boarding form.
 
 After you have confirmed your test transaction a portion of the funds granted in your proposal will be released.
 
@@ -24,11 +24,15 @@ After you have confirmed your test transaction a portion of the funds granted in
 See the [Funds section ](coordinator-processes/funds.md)for further information
 {% endhint %}
 
-### Reporting - (This section in draft)
+### Reporting
 
-By the 10th of every month you are required to complete a progress report via a Google form.
+### The Progress Report
 
-By the 26th of every month you are required to submit a Key Performance Indicator (KPI) via a Google form.
+A **Progress Report** is due 1st week of the month - the Deadline being the 10th.
+
+### Key Performance Indicators (KPIs) Report
+
+A **Key Performance Indicator (KPI) Report** is due in the 3rd week of the month - the Deadline being the 25th.&#x20;
 
 {% hint style="info" %}
 See the [Reporting section](coordinator-processes/reporting.md) for further information
