@@ -6,7 +6,19 @@ coverY: 0
 
 # Latest from Catalyst-Coordinator Telegram
 
-### Just distributed next batch of funds
+## Coordinator meeting later today&#x20;
+
+#### 16th November 2021
+
+\[Forwarded from Catalyst Coordinator Announcements (Daniel Ribar - beware of scam)] Greetings! 👋
+
+👉 Come join us for the Coordinator meeting later today 👉 Nov 16, Tuesday at 6pm UTC (bi-weekly) 👉 Where? Live on Zoom - register now via https://bit.ly/37kHZFB
+
+Note: This is a regular meeting for all funded cohort members ❤️
+
+{% embed url="https://t.me/c/1556514618/1279" %}
+
+## Just distributed next batch of funds
 
 \[Forwarded from Catalyst Coordinator Announcements (Daniel Ribar - beware of scam)] 👋 Greetings
 
@@ -16,7 +28,7 @@ F4️⃣ funds distribution where eligible F5️⃣ funds distribution where eli
 
 {% embed url="https://t.me/c/1556514618/1226" %}
 
-### Test transactions are being distributed today.
+## Test transactions are being distributed today.
 
 \[Forwarded from Catalyst Coordinator Announcements (Daniel Ribar - beware of scam)] 👋
 
@@ -26,7 +38,7 @@ Fund66️⃣ Cohort - test transactions are being distributed today. Check your 
 
 {% embed url="https://t.me/c/1556514618/1136" %}
 
-### Remodel of the reporting document
+## Remodel of the reporting document
 
 \[Forwarded from Catalyst Coordinator Announcements (Daniel Ribar - beware of scam)] 🥁
 
@@ -40,7 +52,7 @@ Quick heads up - in an effort to bring more clarity and accountability to the co
 
 {% embed url="https://t.me/c/1556514618/1112" %}
 
-### LAST CALL: Catalyst BoostCamp #2&#x20;
+## LAST CALL: Catalyst BoostCamp #2&#x20;
 
 \[Forwarded from Catalyst Coordinator Announcements (Daniel Ribar - beware of scam)] \[ Photo ] 🥁
 
