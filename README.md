@@ -6,7 +6,7 @@ cover: .gitbook/assets/2021-11-14 (18).png
 
 # Quick Start - FAQ
 
-### On-boarding
+## On-boarding
 
 Once funded you will receive an email providing instructions and you will be required to attend an on-boarding meeting for "proof of life".
 
@@ -14,7 +14,7 @@ Once funded you will receive an email providing instructions and you will be req
 See the [on-boarding section](https://quality-assurance-dao.gitbook.io/catalyst-coordinator/coordinator-processes/onboarding) for further information
 {% endhint %}
 
-### Funds
+## Funds
 
 After you have completed a "_proof of life_" you will receive a [test transaction](https://quality-assurance-dao.gitbook.io/catalyst-coordinator/coordinator-processes/funds#test-transactions) to the ADA wallet you specified in your on-boarding form.
 
@@ -24,7 +24,7 @@ After you have confirmed your test transaction a portion of the funds granted in
 See the [Funds section ](coordinator-processes/funds.md)for further information
 {% endhint %}
 
-### Reporting
+## Reporting
 
 ### The Progress Report
 
