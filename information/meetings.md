@@ -1,5 +1,5 @@
 ---
-description: Coordinator Meeting Recordings
+description: Coordinator Meeting Recordings & Slides
 cover: ../.gitbook/assets/coord.png
 coverY: 0
 ---
