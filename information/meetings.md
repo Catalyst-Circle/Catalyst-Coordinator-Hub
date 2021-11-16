@@ -6,7 +6,11 @@ coverY: 0
 
 # Meetings
 
-## October 19, 2021
+## November 16th, 2021
+
+{% embed url="https://docs.google.com/presentation/d/1OxU4fhtBPiSgGtKJTrVANdLSqho_5ctb5eHaXXovMBg/edit?usp=sharing" %}
+
+## October 19th, 2021
 
 {% embed url="https://www.youtube.com/watch?v=GaeIe-iuQsU" %}
 
