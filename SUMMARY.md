@@ -18,3 +18,7 @@
 ## Catalyst Circle
 
 * [Nominations and Statements](catalyst-circle/nominations-and-statements.md)
+
+## Coordinator Projects
+
+* [Research](coordinator-projects/research.md)
