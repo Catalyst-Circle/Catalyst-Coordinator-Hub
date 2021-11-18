@@ -4,9 +4,11 @@
 
 On the 10th of every month you are required to complete a progress report via a Google form.
 
-## Key Performance Indicator&#x20;
+## Monthly KPIs Progress Report&#x20;
 
-On the 26th of every month you are required to submit a Key Performance Indicator (KPI) via a Google form.
+On the 26th of every month you are required to submit a Key Performance Indicator (KPI) Progress Report via a Google form (see below).
+
+{% embed url="https://bit.ly/3vqBU5T" %}
 
 ## Public Reporting
 
