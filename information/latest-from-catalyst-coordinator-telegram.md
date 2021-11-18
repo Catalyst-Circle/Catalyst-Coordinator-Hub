@@ -6,6 +6,26 @@ coverY: 0
 
 # Latest from Catalyst-Coordinator Telegram
 
+## ICYMI - here's recording from the last Coordinator meeting held on Tuesday
+
+#### 18th November 2021
+
+\[Forwarded from Catalyst Coordinator Announcements (Daniel Ribar - beware of scam)] 🥁
+
+ICYMI - here's recording from the last Coordinator meeting held on Tuesday 👇
+
+🎥 Zoom call rec: https://bit.ly/3FwXVE3 ✍️ Slides: https://bit.ly/3csVLc1
+
+Don't wish to miss next one? Register now via https://bit.ly/37kHZFB
+
+🔊 On another note, KPI reporting cycle is upon us. This is relevant to all Cohorts, including F6.
+
+📝 KPIs Report • Static link to bookmark: https://bit.ly/3vqBU5T
+
+When to submit KPI report each month? 👉 3rd week of the month - Deadline: up to 25th of the month 👉 Each project should have its own submission 👉 No forms, no funding 👀
+
+⭐️ Public Releases: https://bit.ly/FundedProjectsReporting
+
 ## Last Call: We are about to go live for Coordinator meeting
 
 #### 16th November 2021
