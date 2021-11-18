@@ -20,7 +20,7 @@ Don't wish to miss next one? Register now via https://bit.ly/37kHZFB
 
 🔊 On another note, KPI reporting cycle is upon us. This is relevant to all Cohorts, including F6.
 
-📝 KPIs Report • Static link to bookmark: https://bit.ly/3vqBU5T
+📝 KPIs Report • Static link to bookmark: [https://bit.ly/3vqBU5T](https://bit.ly/3vqBU5T)
 
 When to submit KPI report each month? 👉 3rd week of the month - Deadline: up to 25th of the month 👉 Each project should have its own submission 👉 No forms, no funding 👀
 
