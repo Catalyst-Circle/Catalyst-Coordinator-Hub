@@ -1,8 +1,16 @@
 # Feedback
 
+## Catalyst Prioritized Problems
+
+{% embed url="https://trello.com/c/2MzBExhT" %}
+
+A key Prioritized Problem handed over to Catalyst Circle V2 is "Cohort: Almost non existing “collaborative layer” to welcome newcomers". I am beginning to gather feedback and track issues related to this problem.&#x20;
+
+If you would like to share your experiences as a new funded proposer, offer feedback or suggestions there is now a Funded Proposer Circle Representative email [funded-proposers@catalystcircle.io](mailto:funded-proposers@catalystcircle.io)
+
 ### Email
 
-To contact your Funded Proposer Represenative email [funded-proposers@catalystcircle.io](mailto:funded-proposers@catalystcircle.io)
+To contact your Funded Proposer Representative email [funded-proposers@catalystcircle.io](mailto:funded-proposers@catalystcircle.io)
 
 ### GitHub
 
