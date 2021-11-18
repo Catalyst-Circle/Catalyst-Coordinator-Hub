@@ -30,7 +30,7 @@ See the [Funds section ](coordinator-processes/funds.md)for further information
 
 A **Progress Report** is due 1st week of the month - the Deadline being the 10th.
 
-### Key Performance Indicators (KPIs) Report
+### Key Performance Indicators (KPIs) Progress Report
 
 A **Key Performance Indicator (KPI) Report** is due in the 3rd week of the month - the Deadline being the 25th.&#x20;
 
