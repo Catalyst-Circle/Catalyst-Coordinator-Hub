@@ -21,4 +21,4 @@
 
 ## Coordinator Projects
 
-* [Research](coordinator-projects/research.md)
+* [Sustainable Development Goals](coordinator-projects/sustainable-development-goals.md)

@@ -1,12 +1,18 @@
 ---
 description: Research projects funded by Project Catalyst
+cover: ../.gitbook/assets/2021-11-19.png
+coverY: 0
 ---
 
-# Research
+# Sustainable Development Goals
 
-## Sustainable Development Goals
+## **Sustainable Development Goals (SDGs)**
 
+The **Sustainable Development Goals (SDGs)** tool is made to help you include SDGs in your proposal process. It may be helpful in developing and connecting your ideas and proposals to UN development goals and measurable outcomes.
 
+For more info about the SDGs: [https://sdgs.un.org/goals](https://sdgs.un.org/goals)
+
+To learn more about how Cardano is focused on social, economic and environmental issues: [https://www.sustainableada.com/](https://www.sustainableada.com)
 
 ### Sustainable Development Goals Survey
 
