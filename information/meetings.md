@@ -14,6 +14,12 @@ coverY: 0
 
 {% embed url="https://docs.google.com/presentation/d/1OxU4fhtBPiSgGtKJTrVANdLSqho_5ctb5eHaXXovMBg/edit?usp=sharing" %}
 
+## November 4, 2021
+
+### Funded Cohort - Onboarding Session A
+
+{% embed url="https://youtu.be/AIgRdf9LQMU" %}
+
 ## October 19th, 2021
 
 {% embed url="https://www.youtube.com/watch?v=GaeIe-iuQsU" %}
