@@ -2,6 +2,7 @@
 
 * [Quick Start - FAQ](README.md)
 * [Feedback](feedback.md)
+* [Fund 7 Proposal](fund-7-proposal.md)
 
 ## Information
 
