@@ -24,7 +24,7 @@ Don't wish to miss next one? Register now via https://bit.ly/37kHZFB
 
 When to submit KPI report each month? 👉 3rd week of the month - Deadline: up to 25th of the month 👉 Each project should have its own submission 👉 No forms, no funding 👀
 
-⭐️ Public Releases: https://bit.ly/FundedProjectsReporting
+⭐️ Public Releases: [https://bit.ly/FundedProjectsReporting](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=938310766)
 
 ## Last Call: We are about to go live for Coordinator meeting
 
