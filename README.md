@@ -34,7 +34,7 @@ A **Progress Report** is due 1st week of the month - the Deadline being the 10th
 
 A **Key Performance Indicator (KPI) Report** is due in the 3rd week of the month - the Deadline being the 25th.&#x20;
 
-KPIs Report • Static link to bookmark: https://bit.ly/3vqBU5T
+KPIs Report • [Static link to bookmark](https://docs.google.com/forms/d/e/1FAIpQLSfKLjcd0yCkZBI0CeIpVorapT7EScBDNjAKzrVOPOMnwRb2jg/viewform)
 
 {% hint style="info" %}
 See the [Reporting section](coordinator-processes/reporting.md) for further information
