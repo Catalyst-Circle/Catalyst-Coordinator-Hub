@@ -22,6 +22,30 @@ When to submit KPI report each month? 👉 3rd week of the month - Deadline: up 
 
 ⭐️ Public Releases: https://bit.ly/FundedProjectsReporting
 
+
+
+## Just distributed next batch of funds of latecomers
+
+#### 23rd November 2021
+
+👋 Greetings
+
+Just distributed next batch of funds of latecomers - please check your wallets. 👛
+
+Make sure all your reporting is in for every project. December will have a holiday season and if you miss December distribution cycle - you may not receive next batch of funding until January 2022.
+
+🥁
+
+## LAST CALL: Catalyst Africa Boost Camp applications are coming to a close
+
+#### 18th November 2021
+
+LAST CALL: Catalyst Africa Boost Camp applications are coming to a close
+
+👉 Places are limited to exclusively Africa-focused projects 👉 Make sure to RSVP via catalyst@iohk.io e-mail directly or simply reply to the circulated email invites (https://mailchi.mp/iohk/g6qpccne38-674409) 👉 Programme starts on 29 Nov 2021 and will run for 4 weeks 👉 These opportunities are free of charge
+
+🏁 Deadline to RSVP: Tue, 23 Nov 2021 at 10PM UTC time
+
 ## ICYMI - here's recording from the last Coordinator meeting held on Tuesday
 
 #### 18th November 2021
