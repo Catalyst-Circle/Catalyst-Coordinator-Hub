@@ -6,6 +6,22 @@ coverY: 0
 
 # Latest from Catalyst-Coordinator Telegram
 
+## KPI reporting deadline for November is TODAY.
+
+#### 25th November 2021
+
+🔊 KPI reporting deadline for November is TODAY.
+
+This is relevant to all Cohorts, including Fund6.
+
+📝 KPIs Report • Static link to bookmark: https://bit.ly/3vqBU5T
+
+When to submit KPI report each month? 👉 3rd week of the month - Deadline: up to 25th of the month 👉 Each project should have its own submission 👉 No forms, no funding 👀
+
+👍 Next cycle will be Progress Reports - early December. This is for all Cohorts.
+
+⭐️ Public Releases: https://bit.ly/FundedProjectsReporting
+
 ## ICYMI - here's recording from the last Coordinator meeting held on Tuesday
 
 #### 18th November 2021
