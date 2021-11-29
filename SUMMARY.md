@@ -15,7 +15,7 @@
 * [Onboarding](coordinator-processes/onboarding.md)
 * [Funds](coordinator-processes/funds.md)
 * [Reporting](coordinator-processes/reporting.md)
-* [Best Practice](coordinator-processes/best-practice.md)
+* [Good Practice](coordinator-processes/good-practice.md)
 
 ## Catalyst Circle
 
