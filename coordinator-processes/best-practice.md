@@ -2,7 +2,7 @@
 description: Community consensus on best practices
 ---
 
-# Best Practice
+# Good Practice
 
 ## One Wallet per Proposal
 
