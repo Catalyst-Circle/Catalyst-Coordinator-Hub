@@ -2,7 +2,9 @@
 
 ## Catalyst Prioritized Problems
 
-{% embed url="https://trello.com/c/2MzBExhT" %}
+{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/48" %}
+GitHub Issue
+{% endembed %}
 
 A key Prioritized Problem handed over to Catalyst Circle V2 is "Cohort: Almost non existing “collaborative layer” to welcome newcomers". I am beginning to gather feedback and track issues related to this problem.&#x20;
 
