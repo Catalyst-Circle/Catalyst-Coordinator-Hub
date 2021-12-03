@@ -8,7 +8,9 @@ coverY: 0
 
 ## November 30th, 2021
 
+### Main Meeting Recording
 
+{% embed url="https://youtu.be/xKyyJy7M_2w" %}
 
 ### Slides
 
