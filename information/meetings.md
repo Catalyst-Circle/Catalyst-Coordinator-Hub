@@ -6,6 +6,14 @@ coverY: 0
 
 # Meetings
 
+## November 30th, 2021
+
+
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/11K_2jsw9rSz14UYfvTp1yU0mQgkztFUJWafpMa9ADT4/edit?usp=sharing" %}
+
 ## November 16th, 2021
 
 {% embed url="https://www.youtube.com/watch?v=1Qptjknt1Iw" %}
