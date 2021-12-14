@@ -51,3 +51,10 @@ Coordinator (Funded Cohort) Meetings are held every two weeks.  The IOHK Team ho
 {% hint style="info" %}
 See the [Meetings section](information/meetings.md) for further information
 {% endhint %}
+
+## List of Funded Proposals
+
+[Link ](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit?usp=sharing)
+
+{% embed url="https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit?usp=sharing" %}
+
