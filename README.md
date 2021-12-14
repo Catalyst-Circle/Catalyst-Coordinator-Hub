@@ -54,7 +54,7 @@ See the [Meetings section](information/meetings.md) for further information
 
 ## List of Funded Proposals
 
-[Link ](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit?usp=sharing)
+#### Link to Google Sheet
 
 {% embed url="https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit?usp=sharing" %}
 
