@@ -6,3 +6,6 @@ coverY: 0
 
 # Onboarding
 
+## Fund 7 Onboarding
+
+{% embed url="https://docs.google.com/presentation/d/19jkrAIks6f4Y4DZvnKEly2HDT9dJIjzwa1ofEYkR10o/edit?usp=sharing" %}
