@@ -24,5 +24,33 @@ The presentation prepared by IOG and viewed at the on boarding meeting for Fund 
 
 ![](<../.gitbook/assets/2022-02-16 (1).png>)
 
+​ good to get acquainted
 
+For already funded members it could be not that useful
+
+As a first timer, I'm much more comfortable to run the project after the meeting.
+
+asynchronous stand up would be great! Onboarding all together is a nice experience and shouldnt be dismissed. But successive "standups" can be asynchronous with a short video
+
+We could have async proof of life. Bringing everyone together is different rooms takes a lot of time.
+
+the intro could have been more concise
+
+It would be great to obtain email addresses/contact of funded proposers. It seems that keeping in touch with them after the meeting would be a challenge. Some are reluctant to join communication channels and keen to provide only reports.
+
+Would be great to have the bi weekly meetings with the challenge teams would safe everyone time and keep a cohesive group. Would be great to have a video submission link so we don't have to attend regulalry in person and we can submit the update via video.
+
+The initial presentation was poor, too long and verbose, the infos in it could have been presented much more succinctly. At the end, some people in the audience even had to intervene to make the presenters to respect people's time and move everybody in break out rooms. Q\&A could have been done in break out rooms. But the break out rooms were good.
+
+hope meeting schedule or resume
+
+The agenda was unclear. The introduction of Challenge teams was uncoordinated, not even them were sure what to do. On the break out room we had no idea what to do, the challenge team member had also no idea what to do and how the proof of life process was to proceed.
+
+If the point is just to get them on record saying "I'm thisandthat from this team with this proposal" there are better ways to do it. Now people were hopping from room to room trying to announce them. We did take "confessions" also for proposals outside of our challenge if people had many. Heinz called the process "project junk". :)
+
+So far, everything great
+
+unnecessary process, waste of time... challenge teams intros were unnecessary
+
+The maingoal is to have a proof of live... the current format used, its time consuming without any additional outcomes
 
