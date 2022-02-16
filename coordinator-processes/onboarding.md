@@ -17,3 +17,12 @@ The presentation prepared by IOG and viewed at the on boarding meeting for Fund 
 ### On-boarding email
 
 ![](../.gitbook/assets/2022-02-16.png)
+
+### Feedback
+
+#### How useful did you find this meeting ?
+
+![](<../.gitbook/assets/2022-02-16 (1).png>)
+
+
+
