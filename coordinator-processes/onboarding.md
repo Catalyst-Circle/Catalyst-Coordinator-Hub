@@ -9,3 +9,6 @@ coverY: 0
 ## Fund 7 Onboarding
 
 {% embed url="https://docs.google.com/presentation/d/19jkrAIks6f4Y4DZvnKEly2HDT9dJIjzwa1ofEYkR10o/edit?usp=sharing" %}
+The presentation prepared by IOG and viewed at the on boarding meeting for Fund 7.
+{% endembed %}
+
