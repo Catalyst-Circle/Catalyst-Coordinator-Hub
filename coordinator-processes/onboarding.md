@@ -64,5 +64,42 @@ The presentation prepared by IOG and viewed at the on boarding meeting for Fund 
 
 #### Any suggestions for improvements next time ?
 
+> Well done
+
+> try to get all ct's to attend
+
+> Facilitate proposers who are in more than one challenge setting for proof of life.
+
+> I think the inclusion of the CT per Challenge was a great move into the proper direction!!
+
+> no Q&A in the main session, considering the large numbers of participants. Thank you.
+
+> see above
+
+> Most of the information could be delivered via email, doesn't necessarily have to be duringa meeting.
+
+> It would be great to get the consent of funded proposers to provide the challenge team with email addresses or any forms of contact at all. The format of reporting has already been changed from bi-monthly to monthly yet some funded proposers in previous funding rounds are still adhering to the old format. 
+Very smooth meeting, much more efficient this time, thank you for this! 
+
+> Make the presentation at the start much shorter, by using less rhetoric. The presenter does not need to convince us of anything or make speeches, please just give the information needed.
+
+> Be clearer about whether people who are funded in multiple different challenges need to go from room to room or not.
+Please kindly give more detail information about when will we get the first batch of fund for Catalyst Fund 7 proposal. So we could prepare to run the project. Thank you.
+
+> Have a clear agenda.
+
+> Challenge Team are they to help, they should know what to do. If they have to record the meeting they need host rights
+
+> Find a way to let "mass proposers" to tick the box in some other way.
+
+> Not for now
+
+> don't have this meeting..
+
+> less time in main rooms, more time for breakout rooms
+
+> This could be a pre-recorded information video, and proof of life can be a video we all send in, since Marek is going to watch all the proof of life recordings anyway. Have the two meetings be optional and shorter for those that still have questions and want to chat.
+
+> I think making Proof Of Life at the beginning of the call would help some people that cannot really stay for long in the call.
 
 
