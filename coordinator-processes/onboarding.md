@@ -54,3 +54,15 @@ The presentation prepared by IOG and viewed at the on boarding meeting for Fund 
 
 > The maingoal is to have a proof of live... the current format used, its time consuming without any additional outcomes
 
+#### Was the meeting at a convenient time ?
+
+![](<../.gitbook/assets/2022-02-16 (3).png>)
+
+#### What did you think of the length of the meeting ?
+
+![](<../.gitbook/assets/2022-02-16 (2).png>)
+
+#### Any suggestions for improvements next time ?
+
+
+
