@@ -24,3 +24,7 @@
 ## Coordinator Projects
 
 * [Sustainable Development Goals](coordinator-projects/sustainable-development-goals.md)
+
+***
+
+* [Coordinator Circle Representative](coordinator-circle-representative.md)
