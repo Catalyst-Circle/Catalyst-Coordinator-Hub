@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Quick Start - FAQ](README.md)
+* [Catalyst Coordinator Hub](README.md)
+* [Quick Start - FAQ](<README (1).md>)
 * [Feedback](feedback.md)
 * [Fund 7 Proposal](fund-7-proposal.md)
 
@@ -28,4 +29,3 @@
 ***
 
 * [Coordinator Circle Representative](coordinator-circle-representative.md)
-* [Catalyst Coordinator Hub](catalyst-coordinator-hub.md)
