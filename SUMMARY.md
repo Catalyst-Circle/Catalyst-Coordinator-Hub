@@ -2,7 +2,7 @@
 
 * [Catalyst Coordinator Hub](README.md)
 * [Circle Representation](circle-representation.md)
-* [Feedback](feedback.md)
+* [Funded Proposer Problems](<Funded Proposer Problems.md>)
 
 ## Information
 
