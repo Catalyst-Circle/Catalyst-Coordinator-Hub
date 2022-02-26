@@ -24,3 +24,7 @@
 ## Fund 7 Proposal
 
 * [Proposal Reporting](fund-7-proposal/proposal-reporting.md)
+
+***
+
+* [Closing your project](closing-your-project.md)
