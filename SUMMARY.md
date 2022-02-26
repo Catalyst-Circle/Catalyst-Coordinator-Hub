@@ -28,3 +28,4 @@
 ***
 
 * [Coordinator Circle Representative](coordinator-circle-representative.md)
+* [Catalyst Coordinator Hub](catalyst-coordinator-hub.md)
