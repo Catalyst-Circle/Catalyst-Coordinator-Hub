@@ -16,10 +16,6 @@
 * [Reporting](coordinator-processes/reporting.md)
 * [Good Practice](coordinator-processes/best-practice.md)
 
-## Catalyst Circle
-
-* [Nominations and Statements](catalyst-circle/nominations-and-statements.md)
-
 ## Coordinator Projects
 
 * [Sustainable Development Goals](coordinator-projects/sustainable-development-goals.md)
