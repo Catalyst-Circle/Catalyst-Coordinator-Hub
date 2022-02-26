@@ -1,13 +1,12 @@
 # Table of contents
 
 * [Catalyst Coordinator Hub](README.md)
-* [Quick Start - FAQ](<README (1).md>)
 * [Feedback](feedback.md)
 * [Fund 7 Proposal](fund-7-proposal.md)
 
 ## Information
 
-* [Latest from Catalyst-Coordinator Telegram](information/latest-from-catalyst-coordinator-telegram.md)
+* [Quick Start - FAQ](information/readme.md)
 * [Meet the IOHK Team](information/meet-the-iohk-team.md)
 * [Meetings](information/meetings.md)
 
