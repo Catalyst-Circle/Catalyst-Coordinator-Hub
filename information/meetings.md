@@ -4,11 +4,11 @@ cover: ../.gitbook/assets/coord.png
 coverY: 0
 ---
 
-# Coordinator Meetings
+# Meetings
 
 ## February 22nd 2022
 
-### Slides
+### Coordinator Meeting Slides
 
 {% embed url="https://docs.google.com/presentation/d/1UyDUIpM0swDZ3f3-mPXBnz2jGrs4WK5HgpafN06LEhY/edit?usp=sharing" %}
 
@@ -16,19 +16,21 @@ coverY: 0
 
 ## November 30th, 2021
 
-### Main Meeting Recording
+### Coordinator Meeting Recording
 
 {% embed url="https://youtu.be/xKyyJy7M_2w" %}
 
-### Slides
+### Coordinator Meeting Slides
 
 {% embed url="https://docs.google.com/presentation/d/11K_2jsw9rSz14UYfvTp1yU0mQgkztFUJWafpMa9ADT4/edit?usp=sharing" %}
 
 ## November 16th, 2021
 
+### Coordinator Meeting Recording
+
 {% embed url="https://www.youtube.com/watch?v=1Qptjknt1Iw" %}
 
-### Slides
+### Coordinator Meeting Slides
 
 {% embed url="https://docs.google.com/presentation/d/1OxU4fhtBPiSgGtKJTrVANdLSqho_5ctb5eHaXXovMBg/edit?usp=sharing" %}
 
@@ -39,6 +41,8 @@ coverY: 0
 {% embed url="https://youtu.be/AIgRdf9LQMU" %}
 
 ## October 19th, 2021
+
+### Coordinator Meeting Recording
 
 {% embed url="https://www.youtube.com/watch?v=GaeIe-iuQsU" %}
 
@@ -53,5 +57,7 @@ Welcome - [2:37](https://www.youtube.com/watch?v=GaeIe-iuQsU\&t=157s) Agenda - [
 ## October 5, 2021
 
 ## 7th September 2021
+
+### Coordinator Meeting Recording
 
 {% embed url="https://www.youtube.com/watch?v=pDWSgWDsqHE" %}
