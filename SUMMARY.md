@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Catalyst Coordinator Hub](README.md)
+* [Circle Representation](circle-representation.md)
 * [Feedback](feedback.md)
 
 ## Information
@@ -27,7 +28,3 @@
 ## Fund 7 Proposal
 
 * [Proposal Reporting](fund-7-proposal/proposal-reporting.md)
-
-***
-
-* [Circle Representation](circle-representation.md)
