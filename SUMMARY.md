@@ -8,7 +8,7 @@
 
 * [Quick Start - FAQ](<README (1).md>)
 * [Meet the IOHK Team](information/meet-the-iohk-team.md)
-* [Meetings](information/meetings.md)
+* [Coordinator Meetings](information/meetings.md)
 
 ## Coordinator Processes
 
