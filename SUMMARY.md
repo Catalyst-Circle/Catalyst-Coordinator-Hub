@@ -30,4 +30,4 @@
 
 ## Fund 7 Proposal
 
-* [Fund](fund-7-proposal/fund.md)
+* [Proposal Reporting](fund-7-proposal/proposal-reporting.md)
