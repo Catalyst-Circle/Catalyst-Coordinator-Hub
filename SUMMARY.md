@@ -21,10 +21,6 @@
 
 * [Sustainable Development Goals](coordinator-projects/sustainable-development-goals.md)
 
-***
-
-* [Coordinator Circle Representative](coordinator-circle-representative.md)
-
 ## Fund 7 Proposal
 
 * [Proposal Reporting](fund-7-proposal/proposal-reporting.md)
