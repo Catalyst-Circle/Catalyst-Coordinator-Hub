@@ -1,7 +1,5 @@
 ---
-coverY: 0
 description: New to the funded cohort ? Here are the essentials you need to know.
-cover: .gitbook/assets/2021-11-14 (18).png
 ---
 
 # Quick Start - FAQ
@@ -21,7 +19,7 @@ After you have completed a "_proof of life_" you will receive a [test transactio
 After you have confirmed your test transaction a portion of the funds granted in your proposal will be released.
 
 {% hint style="info" %}
-See the [Funds section ](../coordinator-processes/funds.md)for further information
+See the [Funds section ](coordinator-processes/funds.md)for further information
 {% endhint %}
 
 ## Reporting
@@ -39,7 +37,7 @@ A **Key Performance Indicator (KPI) Report** is due in the 3rd week of the month
 KPIs Report • [Static link to bookmark](https://docs.google.com/forms/d/e/1FAIpQLSfKLjcd0yCkZBI0CeIpVorapT7EScBDNjAKzrVOPOMnwRb2jg/viewform)
 
 {% hint style="info" %}
-See the [Reporting section](../coordinator-processes/reporting.md) for further information
+See the [Reporting section](coordinator-processes/reporting.md) for further information
 {% endhint %}
 
 ## Coordinator (Funded Cohort) Meetings
@@ -47,7 +45,7 @@ See the [Reporting section](../coordinator-processes/reporting.md) for further i
 Coordinator (Funded Cohort) Meetings are held every two weeks. The IOHK Team hosts and presents relevant announcements and information. Then Coordinators give "Stand up" updates on their proposals.
 
 {% hint style="info" %}
-See the [Meetings section](meetings.md) for further information
+See the [Meetings section](information/meetings.md) for further information
 {% endhint %}
 
 ## List of Funded Proposals

@@ -2,11 +2,10 @@
 
 * [Catalyst Coordinator Hub](README.md)
 * [Feedback](feedback.md)
-* [Fund 7 Proposal](fund-7-proposal.md)
 
 ## Information
 
-* [Quick Start - FAQ](information/readme.md)
+* [Quick Start - FAQ](<README (1).md>)
 * [Meet the IOHK Team](information/meet-the-iohk-team.md)
 * [Meetings](information/meetings.md)
 
@@ -28,3 +27,7 @@
 ***
 
 * [Coordinator Circle Representative](coordinator-circle-representative.md)
+
+## Fund 7 Proposal
+
+* [Fund](fund-7-proposal/fund.md)
