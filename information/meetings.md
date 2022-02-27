@@ -14,6 +14,12 @@ coverY: 0
 
 {% embed url="https://docs.google.com/presentation/d/1UyDUIpM0swDZ3f3-mPXBnz2jGrs4WK5HgpafN06LEhY/edit?usp=sharing" %}
 
+## February 2nd 2022
+
+### Funded Teams Reporting Dive In
+
+{% embed url="https://drive.google.com/file/d/1OowFhEIqfltva6sVMehtPQHS1uHvyqL5/view" %}
+
 ## November 30th, 2021
 
 ### Coordinator Meeting Recording
