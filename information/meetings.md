@@ -10,9 +10,9 @@ coverY: 0
 
 ### Coordinator Meeting Slides
 
-{% embed url="https://docs.google.com/presentation/d/1UyDUIpM0swDZ3f3-mPXBnz2jGrs4WK5HgpafN06LEhY/edit?usp=sharing" %}
+#### [Link](https://docs.google.com/presentation/d/1UyDUIpM0swDZ3f3-mPXBnz2jGrs4WK5HgpafN06LEhY/edit?usp=sharing)
 
-##
+{% embed url="https://docs.google.com/presentation/d/1UyDUIpM0swDZ3f3-mPXBnz2jGrs4WK5HgpafN06LEhY/edit?usp=sharing" %}
 
 ## November 30th, 2021
 
