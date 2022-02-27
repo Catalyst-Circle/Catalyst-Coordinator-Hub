@@ -22,19 +22,11 @@ After you have confirmed your test transaction a portion of the funds granted in
 See the [Funds section ](coordinator-processes/funds.md)for further information
 {% endhint %}
 
-## Reporting
+## Monthly Reporting
 
-### The Progress Report
+One report is required per month per proposal
 
-A **Progress Report** is due 1st week of the month - the Deadline being the 10th.
-
-Progress Report • [Static link to bookmark](https://docs.google.com/forms/d/e/1FAIpQLSfLk-tB-beBXdts5xXt8HOBlLc5WzHZDpBdMIr94m9jGTNhmg/viewform)
-
-### Key Performance Indicators (KPIs) Progress Report
-
-A **Key Performance Indicator (KPI) Report** is due in the 3rd week of the month - the Deadline being the 25th.
-
-KPIs Report • [Static link to bookmark](https://docs.google.com/forms/d/e/1FAIpQLSfKLjcd0yCkZBI0CeIpVorapT7EScBDNjAKzrVOPOMnwRb2jg/viewform)
+Follow this [link ](https://docs.google.com/forms/d/e/1FAIpQLSdS6wAzKdSR1mAwCHP0EkVqOVlszvU5E45B0G2-0HmjO6qgbA/viewform)to the monthly reporting form.
 
 {% hint style="info" %}
 See the [Reporting section](coordinator-processes/reporting.md) for further information

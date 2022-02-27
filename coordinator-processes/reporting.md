@@ -3,12 +3,12 @@
 ## Monthly report
 
 {% hint style="info" %}
-On the 24th of every month you are required to complete a [progress report](https://docs.google.com/forms/d/e/1FAIpQLSdS6wAzKdSR1mAwCHP0EkVqOVlszvU5E45B0G2-0HmjO6qgbA/viewform) via a Google form.
+**On the 24th of every month** you are required to complete a [progress report](https://docs.google.com/forms/d/e/1FAIpQLSdS6wAzKdSR1mAwCHP0EkVqOVlszvU5E45B0G2-0HmjO6qgbA/viewform) via a Google form.
 {% endhint %}
 
+![](<../.gitbook/assets/2022-02-27 (2).png>)
 
-
-
+![](../.gitbook/assets/2022-02-27.png)
 
 
 
