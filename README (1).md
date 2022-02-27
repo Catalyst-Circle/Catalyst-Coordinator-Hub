@@ -24,7 +24,7 @@ See the [Funds section ](coordinator-processes/funds.md)for further information
 
 ## Monthly Reporting
 
-One report is required per month per proposal
+**One report is required per proposal on the 24th of every month**
 
 Follow this [link ](https://docs.google.com/forms/d/e/1FAIpQLSdS6wAzKdSR1mAwCHP0EkVqOVlszvU5E45B0G2-0HmjO6qgbA/viewform)to the monthly reporting form.
 
