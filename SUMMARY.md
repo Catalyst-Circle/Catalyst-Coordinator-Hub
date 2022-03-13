@@ -28,4 +28,5 @@
 
 ***
 
+* [Budget](budget.md)
 * [Reporting](reporting.md)
