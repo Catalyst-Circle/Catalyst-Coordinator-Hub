@@ -6,6 +6,7 @@ Welcome to **Catalyst Coordinator Hub** which supports Catalyst Funded Proposers
 
 A Catalyst Coordinator is anyone who has been funded by the Project Catalyst Experiment.
 
-## What is a Circle Representative ?
+## Quick Start - FAQ
 
-Text
+In a hurry ? [Go to this section](https://catalyst-circle.gitbook.io/catalyst-coordinator/information/faq) to read the essentials a funded proposer needs to know.
+
