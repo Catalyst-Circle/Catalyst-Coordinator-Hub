@@ -25,8 +25,5 @@
 ## Fund 7 Proposal
 
 * [Overview](fund-7-proposal/overview.md)
-
-***
-
-* [Budget](budget.md)
-* [Reporting](reporting.md)
+* [Budget](fund-7-proposal/budget.md)
+* [Reporting](fund-7-proposal/reporting.md)
