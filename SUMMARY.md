@@ -24,6 +24,6 @@
 * [Budget](fund-7-proposal/budget.md)
 * [Reporting](fund-7-proposal/reporting.md)
 
-## Group 1
+## Sub CIrcle
 
-* [Funded Proposer Sub Circle](group-1/funded-proposer-sub-circle.md)
+* [Funded Proposer Sub Circle](sub-circle/funded-proposer-sub-circle.md)
