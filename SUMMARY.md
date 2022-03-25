@@ -23,3 +23,7 @@
 * [Overview](fund-7-proposal/overview.md)
 * [Budget](fund-7-proposal/budget.md)
 * [Reporting](fund-7-proposal/reporting.md)
+
+## Group 1
+
+* [Funded Proposer Sub Circle](group-1/funded-proposer-sub-circle.md)
