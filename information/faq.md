@@ -4,6 +4,8 @@ description: New to the funded cohort ? Here are the essentials you need to know
 
 # Quick Start - FAQ
 
+![](../.gitbook/assets/undraw\_questions\_re\_1fy7.svg)
+
 ## On-boarding
 
 Once funded you will receive an email providing instructions and you will be required to attend an on-boarding meeting for "proof of life".
