@@ -18,10 +18,6 @@
 * [Closing your project](coordinator-processes/closing-your-project.md)
 * [Good Practice](coordinator-processes/best-practice.md)
 
-## Coordinator Projects
-
-* [Sustainable Development Goals](coordinator-projects/sustainable-development-goals.md)
-
 ## Fund 7 Proposal
 
 * [Overview](fund-7-proposal/overview.md)
