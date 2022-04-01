@@ -20,5 +20,5 @@ A Catalyst Coordinator is anyone who has been funded by the Project Catalyst Exp
 
 ### Email - funded-proposers@catalystcircle.io
 
-See here for more details about Funded Proposer representation on Catalyst Circle
+[See here for more details about Funded Proposer representation on Catalyst Circle](https://catalyst-circle.gitbook.io/catalyst-coordinator/circle-representation)
 
