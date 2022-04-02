@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Catalyst Coordinator Hub](README.md)
+* [Funded Proposers Hub](README.md)
 * [Circle Funded Proposer Representation](circle-representation.md)
 * [Funded Proposer Problems](<Funded Proposer Problems.md>)
 
