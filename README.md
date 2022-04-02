@@ -1,8 +1,8 @@
 ---
-description: Welcome to Catalyst Coordinator Hub which supports Catalyst Funded Proposers.
+description: Welcome to the Funded Proposers Hub which supports Catalyst Funded Proposers.
 ---
 
-# Catalyst Coordinator Hub
+# Funded Proposers Hub
 
 ![](.gitbook/assets/undraw\_community\_re\_cyrm.svg)
 
