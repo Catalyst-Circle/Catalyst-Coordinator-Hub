@@ -10,14 +10,20 @@
 * [Meet the IOHK Team](information/meet-the-iohk-team.md)
 * [Meetings](information/meetings.md)
 
-## Funded Proposer Processes
+## On Boarding
 
-* [F8 Onboarding](funded-proposer-processes/f8-onboarding.md)
-* [F7 Onboarding](funded-proposer-processes/onboarding.md)
-* [Funds](funded-proposer-processes/funds.md)
-* [Reporting](funded-proposer-processes/reporting.md)
-* [Closing your project](funded-proposer-processes/closing-your-project.md)
-* [Good Practice](funded-proposer-processes/best-practice.md)
+* [F8 Onboarding](on-boarding/f8-onboarding.md)
+* [F7 Onboarding](on-boarding/onboarding.md)
+
+## Funds
+
+* [Funds](funds/funds.md)
+
+## Reporting
+
+* [Reporting](reporting/reporting.md)
+* [Closing your project](reporting/closing-your-project.md)
+* [Good Practice](reporting/best-practice.md)
 
 ## Fund 7 Proposal
 

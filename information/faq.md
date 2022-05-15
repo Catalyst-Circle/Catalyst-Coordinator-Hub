@@ -21,7 +21,7 @@ After you have completed a "_proof of life_" you will receive a [test transactio
 After you have confirmed your test transaction a portion of the funds granted in your proposal will be released.
 
 {% hint style="info" %}
-See the [Funds section ](../funded-proposer-processes/funds.md)for further information
+See the [Funds section ](../funds/funds.md)for further information
 {% endhint %}
 
 ## Monthly Reporting
@@ -33,7 +33,7 @@ See the [Funds section ](../funded-proposer-processes/funds.md)for further infor
 Follow this [link ](https://docs.google.com/forms/d/e/1FAIpQLSdS6wAzKdSR1mAwCHP0EkVqOVlszvU5E45B0G2-0HmjO6qgbA/viewform)to the monthly reporting form.
 
 {% hint style="info" %}
-See the [Reporting section](../funded-proposer-processes/reporting.md) for further information
+See the [Reporting section](../reporting/reporting.md) for further information
 {% endhint %}
 
 ## Coordinator (Funded Cohort) Meetings
