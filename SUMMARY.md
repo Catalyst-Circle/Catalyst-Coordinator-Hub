@@ -12,7 +12,8 @@
 
 ## Funded Proposer Processes
 
-* [Onboarding](funded-proposer-processes/onboarding.md)
+* [F8 Onboarding](funded-proposer-processes/f8-onboarding.md)
+* [F7 Onboarding](funded-proposer-processes/onboarding.md)
 * [Funds](funded-proposer-processes/funds.md)
 * [Reporting](funded-proposer-processes/reporting.md)
 * [Closing your project](funded-proposer-processes/closing-your-project.md)
