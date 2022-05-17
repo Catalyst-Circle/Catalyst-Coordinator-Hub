@@ -32,8 +32,11 @@ There are a number of important actions you need to carry out once you have rece
 3. To assist you as a Funded Project, a Challenge Team (CT) is assigned to you:
 
 a) CT is made up of community members taking up the role of shepherding challenge categories.
+
 b) Each challenge has its own specific CT and Catalyst team will introduce you to your Challenge Teams and send them your projects contact information via email by the end of the day on 16 May 2022.
+
 c) How will the Challenge Team help you? At a meeting with CTs, you will need to confirm your Proof of Life in order for Catalyst to release your initial batch of funding. No Proof of Life = No Funding!
+
 d) Your Challenge Team will contact you with a schedule of available meeting slots for your PoL meeting which will take place 18-24 May. You will be given multiple opportunities to meet with CT to confirm PoL.
 
 ## Confirming Proof of Life
@@ -41,16 +44,24 @@ d) Your Challenge Team will contact you with a schedule of available meeting slo
 Your actions:
 
 1. Confirm Proof of Life with your Challenge Team - without proof of life you will not be funded - by no later than 24 May 2022. A calendar with PoL schedules is published [here](https://docs.google.com/spreadsheets/u/2/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit). Meetings are scheduled in UTC timezone format. Confirm with your CT team for that to be truly the case. In case no meetings are scheduled - please contact [catalyst@iohk.io](mailto:catalyst@iohk.io) email to troubleshoot.
+
 2. During the PoL meeting (scheduled by CT individually), each funded project lead (representative) must provide CT with the following information to confirm your Proof of Life with camera ON:
+
 a) Your full name (spelled out as necessary)
+
 i - This has to be either proposer or co-proposer as listed in Ideascale unless explicitly stated otherwise in the FP onboarding form
 ii - PoL is not for the entire team - one person is sufficient
+
 b) Your project name & project ID# e.g. 800001 (not ideascale ID#)
+
 i - Project ID# will be found in [this document](https://bit.ly/FundedProjectsReporting) under Fund8 tab, Column B - post publishing F8 results
 ii - Your primary place of business (which city/country)
 iii - This could be where the project is incorporated or its primary activities are based in. This does not have to be one location.
+
 d) Your intended completion date
+
 i - When will your project delivery finish based on the scope of funding
+
 e) A video guide sample about how to do PoL can be found [here](https://drive.google.com/drive/u/2/folders/15935ULjwPPHj-Ktzn3Gdai\_MPuK3K3Tb?pli=1).
 
 If you cannot attend any of the Proof of Life group sessions it’s your responsibility to contact your CT and arrange a 1 to 1 meeting. They will have provided you with office hours slots where you can attend a main PoL meeting (office hours and contacts [here](https://docs.google.com/spreadsheets/u/2/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit)).
