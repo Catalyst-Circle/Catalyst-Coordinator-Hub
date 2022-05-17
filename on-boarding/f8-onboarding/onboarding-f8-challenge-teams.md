@@ -48,14 +48,9 @@ d) Your Challenge Team will contact you with a schedule of available meeting slo
 \
 Your actions:
 
-\\
-
 1. Confirm Proof of Life with your Challenge Team - without proof of life you will not be funded - by no later than 24 May 2022. A calendar with PoL schedules is published [here](https://docs.google.com/spreadsheets/u/2/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit). Meetings are scheduled in UTC timezone format. Confirm with your CT team for that to be truly the case. In case no meetings are scheduled - please contact [catalyst@iohk.io](mailto:catalyst@iohk.io) email to troubleshoot.
-
-\\
-
-1. During the PoL meeting (scheduled by CT individually), each funded project lead (representative) must provide CT with the following information to confirm your Proof of Life with camera ON:
-2.
+2. During the PoL meeting (scheduled by CT individually), each funded project lead (representative) must provide CT with the following information to confirm your Proof of Life with camera ON:
+3.
    1. Your full name (spelled out as necessary)
    2.
       1. This has to be either proposer or co-proposer as listed in Ideascale unless explicitly stated otherwise in the FP onboarding form
