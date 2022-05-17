@@ -13,7 +13,7 @@
 ## On Boarding
 
 * [F8 : Onboarding](on-boarding/onboarding-f8-challenge-teams.md)
-* [F7 Onboarding](on-boarding/onboarding.md)
+* [F7 : Onboarding](on-boarding/onboarding.md)
 
 ## Funds
 
