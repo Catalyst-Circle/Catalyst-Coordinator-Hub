@@ -2,13 +2,21 @@
 description: A guide with actions, checklists, key dates and deadlines
 ---
 
-# Onboarding F8 : Challenge Teams
+# F8 : Onboarding
 
 [Source](https://docs.google.com/document/d/1UmxkYlYru1BFEvoicdhS7KIO1Ld2zkLTCCtklJLoKD4/edit?usp=sharing)
 
 {% embed url="https://docs.google.com/document/d/1UmxkYlYru1BFEvoicdhS7KIO1Ld2zkLTCCtklJLoKD4/edit?usp=sharing" %}
 
-Welcome to Catalyst Funded Projects! Now that voting has ended, your project will join hundreds of other Catalyst projects innovating and developing new solutions with help of Catalyst funding from Cardano Community.
+## Fund8 Challenge Teams Session Schedule
+
+[Source](https://docs.google.com/spreadsheets/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit?usp=sharing)
+
+{% embed url="https://docs.google.com/spreadsheets/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit?usp=sharing" %}
+
+## Welcome to Catalyst Funded Projects!&#x20;
+
+Now that voting has ended, your project will join hundreds of other Catalyst projects innovating and developing new solutions with help of Catalyst funding from Cardano Community.
 
 Your project has three important phases as part of Catalyst:
 
@@ -16,7 +24,7 @@ Your project has three important phases as part of Catalyst:
 2. Phase 2: Project Delivery
 3. Phase 3: Project Completion
 
-**This document covers Phase 1: Onboarding.**&#x20;
+**This document covers Phase 1: Onboarding.**
 
 Once you have completed onboarding more information will be provided to you about phases 2 & 3 in the weeks and months following.
 
@@ -50,8 +58,10 @@ d) Your Challenge Team will contact you with a schedule of available meeting slo
 ## Confirming Proof of Life
 
 Your actions:
-- Confirm Proof of Life with your Challenge Team - without proof of life you will not be funded - by no later than 24 May 2022. A calendar with PoL schedules is published [here](https://docs.google.com/spreadsheets/u/2/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit). Meetings are scheduled in UTC timezone format. Confirm with your CT team for that to be truly the case. In case no meetings are scheduled - please contact [catalyst@iohk.io](mailto:catalyst@iohk.io) email to troubleshoot.
-- During the PoL meeting (scheduled by CT individually), each funded project lead (representative) must provide CT with the following information to confirm your Proof of Life with camera ON:
+
+* Confirm Proof of Life with your Challenge Team - without proof of life you will not be funded - by no later than 24 May 2022. A calendar with PoL schedules is published [here](https://docs.google.com/spreadsheets/u/2/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit). Meetings are scheduled in UTC timezone format. Confirm with your CT team for that to be truly the case. In case no meetings are scheduled - please contact [catalyst@iohk.io](mailto:catalyst@iohk.io) email to troubleshoot.
+* During the PoL meeting (scheduled by CT individually), each funded project lead (representative) must provide CT with the following information to confirm your Proof of Life with camera ON:
+
 > a) Your full name (spelled out as necessary) - This has to be either proposer or co-proposer as listed in Ideascale unless explicitly stated otherwise in the FP onboarding form. PoL is not for the entire team - one person is sufficient
 
 > b) Your project name & project ID# e.g. 800001 (not ideascale ID#) - Project ID# will be found in [this document](https://bit.ly/FundedProjectsReporting) under Fund8 tab, Column B - post publishing F8 results. Your primary place of business (which city/country). This could be where the project is incorporated or its primary activities are based in. This does not have to be one location.
@@ -59,17 +69,19 @@ Your actions:
 > d) Your intended completion date. When will your project delivery finish based on the scope of funding
 
 > e) A video guide sample about how to do PoL can be found [here](https://drive.google.com/drive/u/2/folders/15935ULjwPPHj-Ktzn3Gdai\_MPuK3K3Tb?pli=1).
-- If you cannot attend any of the Proof of Life group sessions it’s your responsibility to contact your CT and arrange a 1 to 1 meeting. They will have provided you with office hours slots where you can attend a main PoL meeting (office hours and contacts [here](https://docs.google.com/spreadsheets/u/2/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit)).
 
-- If you have already confirmed a PoL in previous funds you don’t need to do it again - you are automatically confirmed.
+* If you cannot attend any of the Proof of Life group sessions it’s your responsibility to contact your CT and arrange a 1 to 1 meeting. They will have provided you with office hours slots where you can attend a main PoL meeting (office hours and contacts [here](https://docs.google.com/spreadsheets/u/2/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit)).
+* If you have already confirmed a PoL in previous funds you don’t need to do it again - you are automatically confirmed.
+
 > Primary proposer as listed in Ideascale has to be the same for this to be true. CTs will be alerted to that fact.
 
-- If you are funded for multiple projects in Fund8
+* If you are funded for multiple projects in Fund8
+
 > You only need to confirm PoL with one of the Challenge Teams assigned to you but you MUST inform the other Challenge Teams where your other projects are that you have confirmed PoL elsewhere.
 
-- All Proof of life meetings are recorded.
-- The deadline for delivering your Proof of Life is 24 May 2022 in order to be included in the first batch of funding. It is strongly recommended to attend any of the slots made available by CTs prior this deadline.
-- If you do not attend any available PoL meeting with your CT then the CT will inform us and we will be in direct contact with you to establish if there is an issue.
+* All Proof of life meetings are recorded.
+* The deadline for delivering your Proof of Life is 24 May 2022 in order to be included in the first batch of funding. It is strongly recommended to attend any of the slots made available by CTs prior this deadline.
+* If you do not attend any available PoL meeting with your CT then the CT will inform us and we will be in direct contact with you to establish if there is an issue.
 
 ## What else further down the line?
 
