@@ -2,17 +2,17 @@
 description: A guide with actions, checklists, key dates and deadlines
 ---
 
-# Onboarding F8 : Challenge Teams
+# Onboarding F8 Funded Projects
+
+https://docs.google.com/document/d/1lmlrqrTthz1CjCj2zNtY7hlAfGsKui_cXIUNygLPsm0/edit?usp=sharing
 
 Welcome to Catalyst Funded Projects! Now that voting has ended, your project will join hundreds of other Catalyst projects innovating and developing new solutions with help of Catalyst funding from Cardano Community.&#x20;
 
 Your project has three important phases as part of Catalyst:
 
-\
-Phase 1: Onboarding&#x20;
-
-1. Phase 2: Project Delivery
-2. Phase 3: Project Completion
+1. Phase 1: Onboarding&#x20;
+2. Phase 2: Project Delivery
+3. Phase 3: Project Completion
 
 This document covers Phase 1: Onboarding. Once you have completed onboarding more information will be provided to you about phases 2 & 3 in the weeks and months following.
 
