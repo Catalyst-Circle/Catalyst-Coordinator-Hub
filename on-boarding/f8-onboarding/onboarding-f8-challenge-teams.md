@@ -93,42 +93,25 @@ If you cannot attend any of the Proof of Life group sessions it’s your respons
 
 \\
 
-What else further down the line?
+## What else further down the line?
 
 \\
 
 Once your project has started and Proof of Life has been accepted, you will need to report monthly (by the 24th of each month) on your project in order to receive your monthly payments using [this monthly report form](https://bit.ly/CatalystMonthlyReport). Output of these reports is made publicly available - [check here](https://bit.ly/Funded-Projects-Reports). Also, progress generally is published via [this publicly shared spreadsheet](https://bit.ly/FundedProjectsReporting).
 
-\\
-
 The amount of funding your project receives will be based on the amount you have requested and your proposed end date. The final batch of funding is only released once your project has submitted a project close out report and video. Find more guidance [here](https://drive.google.com/drive/folders/1SSW2afDX5w30aTZYF3p7o7rLUep7v0TJ).
 
-\\
-
-Privacy and Confidentiality
-
-\\
+## Privacy and Confidentiality
 
 If you wish to remain completely confidential through your Catalyst process then please email [catalyst@iohk.io](mailto:catalyst@iohk.io) with your full details including your Ideascale link and the reason for requesting privacy. At this stage of Catalyst development, it is NOT guaranteed that your identity will remain anonymous.
 
-\\
-
-Conflict of Interest
-
-\\
+## Conflict of Interest
 
 If you have any legitimate concerns regarding the CT you are working with please email [catalyst@iohk.io](mailto:catalyst@iohk.io) with full details of your concerns so the Catalyst team can review.
 
-\
-\
-\\
-
 ## Challenge Team Checklist
-
-\
 Have you…
 
-\
 Submitted your onboarding form?
 
 * Been introduced to your Challenge Team? Make sure to check your spam folder of (co)proposer e-mails. If not please contact [catalyst@iohk.io](mailto:catalyst@iohk.io)
@@ -137,10 +120,6 @@ Submitted your onboarding form?
 * Provided your Challenge Team with the information they need via video to confirm your Proof of Life at a scheduled meeting by 24th May 2022?
 * Completed the Proof of Life process?
 
-\\
-
 Was this confusing? Let’s MIRO the flow visually - [follow this link here](https://miro.com/app/board/uXjVO4r7A\_c=/?share\_link\_id=197153595159). Password: FUND8CTS
-
-\\
 
 ![](https://lh3.googleusercontent.com/0w5O1OauUg8Z4u3Ezw4gRB7EDZ21WPjNvCFl9NoeKH10AQjv8ws5ACXAz7YfujxxqFDnfOeWQAMu-Ld53dCiValnuPCqlB2sEqsr1H80ZI9Ay0\_EOuBEiaT1S8NbkOHeJfp5u4f1OTCuNcpXMw)
