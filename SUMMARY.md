@@ -13,6 +13,7 @@
 ## On Boarding
 
 * [F8 Onboarding](on-boarding/f8-onboarding.md)
+* [Onboarding F8 Funded Projects](on-boarding/onboarding-f8-funded-projects.md)
 * [F7 Onboarding](on-boarding/onboarding.md)
 
 ## Funds
