@@ -2,7 +2,7 @@
 description: A guide with actions, checklists, key dates and deadlines
 ---
 
-# Onboarding F8 Funded Projects
+# Onboarding F8 : Challenge Teams
 
 Welcome to Catalyst Funded Projects! Now that voting has ended, your project will join hundreds of other Catalyst projects innovating and developing new solutions with help of Catalyst funding from Cardano Community.&#x20;
 
