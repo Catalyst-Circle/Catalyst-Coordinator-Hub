@@ -26,11 +26,11 @@ There are a number of important actions you need to carry out once you have rece
 
 ### Complete the onboarding form
 
-1. Firstly you will need to complete the onboarding form by noon UTC on 16 May 2022. The onboarding form link will be shared with you by the end of day UTC on 13 May 2022. One form submission = one funded project.
+Firstly you will need to complete the onboarding form by noon UTC on 16 May 2022. The onboarding form link will be shared with you by the end of day UTC on 13 May 2022. One form submission = one funded project.
 
 ### Attend Catalyst Onboarding Meeting
 
-1. Attend one of the Catalyst Celebration Onboarding Meetings on 17 May 2022 (not mandatory, both are same - different time slot). You will get the opportunity to ask questions and clarify any outstanding doubts.
+Attend one of the Catalyst Celebration Onboarding Meetings on 17 May 2022 (not mandatory, both are same - different time slot). You will get the opportunity to ask questions and clarify any outstanding doubts.
 
 > 1. [F8 Onboarding Session A](https://bit.ly/F8-Onboarding-A) - 9AM UTC
 > 2. [F8 Onboarding Session B](https://bit.ly/F8-Onboarding-B) - 5PM UTC
