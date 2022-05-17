@@ -16,7 +16,9 @@ Your project has three important phases as part of Catalyst:
 2. Phase 2: Project Delivery
 3. Phase 3: Project Completion
 
-This document covers Phase 1: Onboarding. Once you have completed onboarding more information will be provided to you about phases 2 & 3 in the weeks and months following.
+**This document covers Phase 1: Onboarding.**&#x20;
+
+Once you have completed onboarding more information will be provided to you about phases 2 & 3 in the weeks and months following.
 
 ## Onboarding stage, what needs to be done now?
 
