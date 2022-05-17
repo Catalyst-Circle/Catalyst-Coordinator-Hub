@@ -59,43 +59,26 @@ ii - Your primary place of business (which city/country)
 iii - This could be where the project is incorporated or its primary activities are based in. This does not have to be one location.
 
 d) Your intended completion date
-
-i - When will your project delivery finish based on the scope of funding
+> i - When will your project delivery finish based on the scope of funding
 
 e) A video guide sample about how to do PoL can be found [here](https://drive.google.com/drive/u/2/folders/15935ULjwPPHj-Ktzn3Gdai\_MPuK3K3Tb?pli=1).
 
-If you cannot attend any of the Proof of Life group sessions it’s your responsibility to contact your CT and arrange a 1 to 1 meeting. They will have provided you with office hours slots where you can attend a main PoL meeting (office hours and contacts [here](https://docs.google.com/spreadsheets/u/2/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit)).
+3. If you cannot attend any of the Proof of Life group sessions it’s your responsibility to contact your CT and arrange a 1 to 1 meeting. They will have provided you with office hours slots where you can attend a main PoL meeting (office hours and contacts [here](https://docs.google.com/spreadsheets/u/2/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit)).
 
+4. If you have already confirmed a PoL in previous funds you don’t need to do it again - you are automatically confirmed.
+> 1. Primary proposer as listed in Ideascale has to be the same for this to be true.
+> 2. CTs will be alerted to that fact.
 
+5. If you are funded for multiple projects in Fund8
+> 1. You only need to confirm PoL with one of the Challenge Teams assigned to you but you MUST inform the other Challenge Teams where your other projects are that you have confirmed PoL elsewhere.
 
-1. If you have already confirmed a PoL in previous funds you don’t need to do it again - you are automatically confirmed.
-2.
-   1. Primary proposer as listed in Ideascale has to be the same for this to be true.
-   2. CTs will be alerted to that fact.
+6. All Proof of life meetings are recorded.
 
-\\
+7. The deadline for delivering your Proof of Life is 24 May 2022 in order to be included in the first batch of funding. It is strongly recommended to attend any of the slots made available by CTs prior this deadline.
 
-1. If you are funded for multiple projects in Fund8
-2.
-   1. You only need to confirm PoL with one of the Challenge Teams assigned to you but you MUST inform the other Challenge Teams where your other projects are that you have confirmed PoL elsewhere.
-
-\\
-
-1. All Proof of life meetings are recorded.
-
-\\
-
-1. The deadline for delivering your Proof of Life is 24 May 2022 in order to be included in the first batch of funding. It is strongly recommended to attend any of the slots made available by CTs prior this deadline.
-
-\\
-
-1. If you do not attend any available PoL meeting with your CT then the CT will inform us and we will be in direct contact with you to establish if there is an issue.
-
-\\
+8. If you do not attend any available PoL meeting with your CT then the CT will inform us and we will be in direct contact with you to establish if there is an issue.
 
 ## What else further down the line?
-
-\\
 
 Once your project has started and Proof of Life has been accepted, you will need to report monthly (by the 24th of each month) on your project in order to receive your monthly payments using [this monthly report form](https://bit.ly/CatalystMonthlyReport). Output of these reports is made publicly available - [check here](https://bit.ly/Funded-Projects-Reports). Also, progress generally is published via [this publicly shared spreadsheet](https://bit.ly/FundedProjectsReporting).
 
@@ -114,11 +97,11 @@ Have you…
 
 Submitted your onboarding form?
 
-* Been introduced to your Challenge Team? Make sure to check your spam folder of (co)proposer e-mails. If not please contact [catalyst@iohk.io](mailto:catalyst@iohk.io)
-* Raised any conflict of interest concerns to IO by emailing [catalyst@iohk.io](mailto:catalyst@iohk.io) with full details? (optional)
-* Confirmed with your Challenge Team which one of the Proof of Life meetings available (you will be offered 4-6 available slots) you will be attending? This is very important if you wish to be paid. These meetings are scheduled to take place 18-24 May 2022.
-* Provided your Challenge Team with the information they need via video to confirm your Proof of Life at a scheduled meeting by 24th May 2022?
-* Completed the Proof of Life process?
+- Been introduced to your Challenge Team? Make sure to check your spam folder of (co)proposer e-mails. If not please contact [catalyst@iohk.io](mailto:catalyst@iohk.io)
+- Raised any conflict of interest concerns to IO by emailing [catalyst@iohk.io](mailto:catalyst@iohk.io) with full details? (optional)
+- Confirmed with your Challenge Team which one of the Proof of Life meetings available (you will be offered 4-6 available slots) you will be attending? This is very important if you wish to be paid. These meetings are scheduled to take place 18-24 May 2022.
+- Provided your Challenge Team with the information they need via video to confirm your Proof of Life at a scheduled meeting by 24th May 2022?
+- Completed the Proof of Life process?
 
 Was this confusing? Let’s MIRO the flow visually - [follow this link here](https://miro.com/app/board/uXjVO4r7A\_c=/?share\_link\_id=197153595159). Password: FUND8CTS
 
