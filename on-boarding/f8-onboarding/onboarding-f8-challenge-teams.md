@@ -50,39 +50,28 @@ d) Your Challenge Team will contact you with a schedule of available meeting slo
 ## Confirming Proof of Life
 
 Your actions:
-
-1. Confirm Proof of Life with your Challenge Team - without proof of life you will not be funded - by no later than 24 May 2022. A calendar with PoL schedules is published [here](https://docs.google.com/spreadsheets/u/2/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit). Meetings are scheduled in UTC timezone format. Confirm with your CT team for that to be truly the case. In case no meetings are scheduled - please contact [catalyst@iohk.io](mailto:catalyst@iohk.io) email to troubleshoot.
-2. During the PoL meeting (scheduled by CT individually), each funded project lead (representative) must provide CT with the following information to confirm your Proof of Life with camera ON:
+- Confirm Proof of Life with your Challenge Team - without proof of life you will not be funded - by no later than 24 May 2022. A calendar with PoL schedules is published [here](https://docs.google.com/spreadsheets/u/2/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit). Meetings are scheduled in UTC timezone format. Confirm with your CT team for that to be truly the case. In case no meetings are scheduled - please contact [catalyst@iohk.io](mailto:catalyst@iohk.io) email to troubleshoot.
+- During the PoL meeting (scheduled by CT individually), each funded project lead (representative) must provide CT with the following information to confirm your Proof of Life with camera ON:
 > a) Your full name (spelled out as necessary)
-
 > i - This has to be either proposer or co-proposer as listed in Ideascale unless explicitly stated otherwise in the FP onboarding form ii - PoL is not for the entire team - one person is sufficient
-
 > b) Your project name & project ID# e.g. 800001 (not ideascale ID#)
-
 > i - Project ID# will be found in [this document](https://bit.ly/FundedProjectsReporting) under Fund8 tab, Column B - post publishing F8 results ii - Your primary place of business (which city/country) iii - This could be where the project is incorporated or its primary activities are based in. This does not have to be one location.
-
 > d) Your intended completion date
-
 > i - When will your project delivery finish based on the scope of funding
-
 > e) A video guide sample about how to do PoL can be found [here](https://drive.google.com/drive/u/2/folders/15935ULjwPPHj-Ktzn3Gdai\_MPuK3K3Tb?pli=1).
 
-3. If you cannot attend any of the Proof of Life group sessions it’s your responsibility to contact your CT and arrange a 1 to 1 meeting. They will have provided you with office hours slots where you can attend a main PoL meeting (office hours and contacts [here](https://docs.google.com/spreadsheets/u/2/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit)).
+- If you cannot attend any of the Proof of Life group sessions it’s your responsibility to contact your CT and arrange a 1 to 1 meeting. They will have provided you with office hours slots where you can attend a main PoL meeting (office hours and contacts [here](https://docs.google.com/spreadsheets/u/2/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit)).
 
-4. If you have already confirmed a PoL in previous funds you don’t need to do it again - you are automatically confirmed.
-
+- If you have already confirmed a PoL in previous funds you don’t need to do it again - you are automatically confirmed.
 > 1. Primary proposer as listed in Ideascale has to be the same for this to be true.
 > 2. CTs will be alerted to that fact.
 
-5. If you are funded for multiple projects in Fund8
-
+- If you are funded for multiple projects in Fund8
 > 1. You only need to confirm PoL with one of the Challenge Teams assigned to you but you MUST inform the other Challenge Teams where your other projects are that you have confirmed PoL elsewhere.
 
-6. All Proof of life meetings are recorded.
-
-7. The deadline for delivering your Proof of Life is 24 May 2022 in order to be included in the first batch of funding. It is strongly recommended to attend any of the slots made available by CTs prior this deadline.
-
-8. If you do not attend any available PoL meeting with your CT then the CT will inform us and we will be in direct contact with you to establish if there is an issue.
+- All Proof of life meetings are recorded.
+- The deadline for delivering your Proof of Life is 24 May 2022 in order to be included in the first batch of funding. It is strongly recommended to attend any of the slots made available by CTs prior this deadline.
+- If you do not attend any available PoL meeting with your CT then the CT will inform us and we will be in direct contact with you to establish if there is an issue.
 
 ## What else further down the line?
 
