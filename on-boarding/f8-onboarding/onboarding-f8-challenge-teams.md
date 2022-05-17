@@ -84,7 +84,11 @@ e) A video guide sample about how to do PoL can be found [here](https://drive.go
 
 ## What else further down the line?
 
+### Monthly Reports
+
 Once your project has started and Proof of Life has been accepted, you will need to report monthly (by the 24th of each month) on your project in order to receive your monthly payments using [this monthly report form](https://bit.ly/CatalystMonthlyReport). Output of these reports is made publicly available - [check here](https://bit.ly/Funded-Projects-Reports). Also, progress generally is published via [this publicly shared spreadsheet](https://bit.ly/FundedProjectsReporting).
+
+### Fund Release
 
 The amount of funding your project receives will be based on the amount you have requested and your proposed end date. The final batch of funding is only released once your project has submitted a project close out report and video. Find more guidance [here](https://drive.google.com/drive/folders/1SSW2afDX5w30aTZYF3p7o7rLUep7v0TJ).
 
