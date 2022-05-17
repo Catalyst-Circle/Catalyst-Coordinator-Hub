@@ -46,29 +46,29 @@ d) Your Challenge Team will contact you with a schedule of available meeting slo
 ## Confirming Proof of Life
 
 \
-Your actions:
+Yourctions:
 
 1. Confirm Proof of Life with your Challenge Team - without proof of life you will not be funded - by no later than 24 May 2022. A calendar with PoL schedules is published [here](https://docs.google.com/spreadsheets/u/2/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit). Meetings are scheduled in UTC timezone format. Confirm with your CT team for that to be truly the case. In case no meetings are scheduled - please contact [catalyst@iohk.io](mailto:catalyst@iohk.io) email to troubleshoot.
 2. During the PoL meeting (scheduled by CT individually), each funded project lead (representative) must provide CT with the following information to confirm your Proof of Life with camera ON:
 3.
-   1. Your full name (spelled out as necessary)
-   2.
-      1. This has to be either proposer or co-proposer as listed in Ideascale unless explicitly stated otherwise in the FP onboarding form
-      2. PoL is not for the entire team - one person is sufficient
-   3. Your project name & project ID# e.g. 800001 (not ideascale ID#)
-   4.
-      1. Project ID# will be found in [this document](https://bit.ly/FundedProjectsReporting) under Fund8 tab, Column B - post publishing F8 results
-   5. Your primary place of business (which city/country)
-   6.
-      1. This could be where the project is incorporated or its primary activities are based in. This does not have to be one location.
-   7. Your intended completion date
-   8.
-      1. When will your project delivery finish based on the scope of funding
-   9. A video guide sample about how to do PoL can be found [here](https://drive.google.com/drive/u/2/folders/15935ULjwPPHj-Ktzn3Gdai\_MPuK3K3Tb?pli=1).
 
-\\
+    a) Your full name (spelled out as necessary)
 
-1. If you cannot attend any of the Proof of Life group sessions it’s your responsibility to contact your CT and arrange a 1 to 1 meeting. They will have provided you with office hours slots where you can attend a main PoL meeting (office hours and contacts [here](https://docs.google.com/spreadsheets/u/2/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit)).
+    1.
+       1. This has to be either proposer or co-proposer as listed in Ideascale unless explicitly stated otherwise in the FP onboarding form
+       2. PoL is not for the entire team - one person is sufficient
+    2. Your project name & project ID# e.g. 800001 (not ideascale ID#)
+    3.
+       1. Project ID# will be found in [this document](https://bit.ly/FundedProjectsReporting) under Fund8 tab, Column B - post publishing F8 results
+    4. Your primary place of business (which city/country)
+    5.
+       1. This could be where the project is incorporated or its primary activities are based in. This does not have to be one location.
+    6. Your intended completion date
+    7.
+       1. When will your project delivery finish based on the scope of funding
+    8. A video guide sample about how to do PoL can be found [here](https://drive.google.com/drive/u/2/folders/15935ULjwPPHj-Ktzn3Gdai\_MPuK3K3Tb?pli=1).
+
+If you cannot attend any of the Proof of Life group sessions it’s your responsibility to contact your CT and arrange a 1 to 1 meeting. They will have provided you with office hours slots where you can attend a main PoL meeting (office hours and contacts [here](https://docs.google.com/spreadsheets/u/2/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit)).
 
 \\
 
