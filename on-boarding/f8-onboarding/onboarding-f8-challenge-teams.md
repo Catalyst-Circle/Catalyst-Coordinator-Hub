@@ -33,7 +33,9 @@ There are a number of important actions you need to carry out once you have rece
 > 1. [F8 Onboarding Session A](https://bit.ly/F8-Onboarding-A) - 9AM UTC
 > 2. [F8 Onboarding Session B](https://bit.ly/F8-Onboarding-B) - 5PM UTC
 
-1. To assist you as a Funded Project, a Challenge Team (CT) is assigned to you:
+### A Challenge Team (CT) is assigned to you
+
+To assist you as a Funded Project, a Challenge Team (CT) is assigned to you:
 
 a) CT is made up of community members taking up the role of shepherding challenge categories.
 
