@@ -8,7 +8,14 @@ coverY: 0
 
 ## Test Transactions
 
+When you have completed your onboarding form, and given a wallet address for your proposal, you will receive a test transaction of 1 ADA.
 
+You will receive 1 ADA _per wallet_, not per proposal - so if you are using the same wallet for more than one proposal (which is not usually considered best practice, but still, some people do it), you will only receive 1 ADA for the wallet as a whole.
+
+You will also get an email to say that the text transaction has been sent. You need to reply to this email to confirm that you have received it.
 
 ## First Release of Funds
 
+Your initial payment as a newly-funded proposal will be separate from the usual monthly payment date for existing funded proposals from previous Funds.
+
+Check the Proposers and Catalyst Coordinator channels on Telegram for announcements.
