@@ -14,8 +14,8 @@
 
 ## Onboarding as a new Funded Proposer
 
-* [F8 : Onboarding](onboarding-as-a-new-funded-proposer/onboarding-f8-challenge-teams.md)
-* [F7 : Onboarding](onboarding-as-a-new-funded-proposer/onboarding.md)
+* [F8 : Onboarding](on-boarding/onboarding-f8-challenge-teams.md)
+* [F7 : Onboarding](on-boarding/onboarding.md)
 
 ## Funds
 
@@ -35,8 +35,8 @@
 
 ## Funded Proposers and Catalyst Circle
 
-* [Funded Proposer Representatives on Catalyst Circle](funded-proposers-and-catalyst-circle/circle-representation.md)
-* [Funded Proposer Problems on Catalyst Circle's problem board](funded-proposers-and-catalyst-circle/funded-proposer-problems.md)
+* [Funded Proposer Representatives on Catalyst Circle](circle-representation.md)
+* [Funded Proposer Problems on Catalyst Circle's problem board](<Funded Proposer Problems.md>)
 
 ## Sub CIrcle
 

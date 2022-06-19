@@ -1,4 +1,4 @@
-# Funded Proposer Problems
+# Funded Proposer Problems on Catalyst Circle's problem board
 
 ## Catalyst Prioritized Problems&#x20;
 
