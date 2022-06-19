@@ -1,5 +1,5 @@
 ---
-description: Welcome to the Funded Proposers Hub which supports Catalyst Funded Proposers.
+description: Welcome to the Funded Proposers Hub, which supports Catalyst Funded Proposers.
 ---
 
 # Funded Proposers Hub
