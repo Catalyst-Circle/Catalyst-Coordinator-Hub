@@ -1,4 +1,9 @@
-# Proposers' Guidance Notes - multi-lingual
+---
+cover: ../.gitbook/assets/pointer banner.jpg
+coverY: 0
+---
+
+# Proposers' Guidance Notes: multi-lingual
 
 * Aquí puede descargar notas de orientación sobre cómo completar el formulario de envío de propuestas de Catalyst.
 * Aqui você pode baixar notas de orientação sobre como preencher o formulário de envio de proposta do Catalyst.

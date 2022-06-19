@@ -10,7 +10,7 @@
 
 ## Help with proposing in Catalyst
 
-* [Proposers' Guidance Notes - multi-lingual](help-with-proposing-in-catalyst/proposers-guidance-notes-multi-lingual.md)
+* [Proposers' Guidance Notes: multi-lingual](help-with-proposing-in-catalyst/proposers-guidance-notes-multi-lingual.md)
 
 ## Onboarding as a new Funded Proposer
 
