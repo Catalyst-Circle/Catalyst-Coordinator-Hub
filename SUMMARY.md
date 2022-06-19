@@ -40,4 +40,4 @@
 
 ## Funded Proposers Sub CIrcle
 
-* [Funded Proposer Sub Circle](funded-proposers-sub-circle/funded-proposer-sub-circle.md)
+* [About the Funded Proposers Sub-circle](sub-circle/funded-proposer-sub-circle.md)

@@ -1,4 +1,4 @@
-# Funded Proposer Sub Circle
+# About the Funded Proposers Sub-circle
 
 The sub-circle is a funded proposal (of course!) in fund 8. It was submitted by 7 proposers from across the globe who wanted to help build community amongst proposers, and support proposers' interests.&#x20;
 
