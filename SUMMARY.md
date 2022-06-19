@@ -6,7 +6,7 @@
 
 * [Quick Start - FAQ](information/faq.md)
 * [Meet the IOHK Team](information/meet-the-iohk-team.md)
-* [Meetings](information/meetings.md)
+* [Catalsy Coordinator Meetings](information/meetings.md)
 
 ## Help with proposing in Catalyst
 
@@ -38,6 +38,6 @@
 * [Funded Proposer Representatives on Catalyst Circle](circle-representation.md)
 * [Funded Proposer Problems on Catalyst Circle's problem board](<Funded Proposer Problems.md>)
 
-## Sub CIrcle
+## Funded Proposers Sub CIrcle
 
-* [Funded Proposer Sub Circle](sub-circle/funded-proposer-sub-circle.md)
+* [Funded Proposer Sub Circle](funded-proposers-sub-circle/funded-proposer-sub-circle.md)
