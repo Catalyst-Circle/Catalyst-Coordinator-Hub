@@ -10,9 +10,13 @@ description: Welcome to the Funded Proposers Hub, which supports Catalyst Funded
 
 In a hurry ? [Go to this section](https://catalyst-circle.gitbook.io/catalyst-coordinator/information/faq) to read the essentials a funded proposer needs to know.
 
-## What is a Catalyst Coordinator ?
+## What is the Catalyst Coordinator ?
 
-A Catalyst Coordinator is anyone who has been funded by the Project Catalyst Experiment.
+The Catalyst Coordinator is the group of everyone who has been funded by the Project Catalyst Experiment, in any Fund.\
+\
+Coordinator meetings take place on Zoom, every second Tuesday. You will be sent a link when you receive your onboarding information as a newly-funded proposer.\
+\
+Coordinator meetings are not compulsory. It's understood that they are at an inconvenient time for some parts of the globe; hopefully in future there will be meetings to suit all time zones.
 
 ## Contact your Catalyst Circle Rep
 
