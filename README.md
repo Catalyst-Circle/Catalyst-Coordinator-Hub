@@ -12,11 +12,11 @@ In a hurry ? [Go to this section](https://catalyst-circle.gitbook.io/catalyst-co
 
 ## What is the Catalyst Coordinator ?
 
-The Catalyst Coordinator is the group of everyone who has been funded by the Project Catalyst Experiment, in any Fund.\
+The "Catalyst Coordinator" is everyone who has been funded by the Project Catalyst Experiment, in any Fund.\
 \
 Coordinator meetings take place on Zoom, every second Tuesday. You will be sent a link when you receive your onboarding information as a newly-funded proposer.\
 \
-Coordinator meetings are not compulsory. It's understood that they are at an inconvenient time for some parts of the globe; hopefully in future there will be meetings to suit all time zones.
+Coordinator meetings are not compulsory. They are at an inconvenient time for some parts of the globe; and hopefully in future there will be meetings to suit all time zones.
 
 ## Contact your Catalyst Circle Rep
 
