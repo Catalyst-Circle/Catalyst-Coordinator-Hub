@@ -33,11 +33,12 @@
 * [Budget](fund-7-proposal/budget.md)
 * [Reporting](fund-7-proposal/reporting.md)
 
+## The Funded Proposers Sub CIrcle
+
+* [About the Funded Proposers Sub-circle](the-funded-proposers-sub-circle/funded-proposer-sub-circle.md)
+* [Sub-Circle Meetings](the-funded-proposers-sub-circle/sub-circle-meetings.md)
+
 ## Funded Proposers and Catalyst Circle
 
 * [Funded Proposer Representatives on Catalyst Circle](circle-representation.md)
 * [Funded Proposer Problems on Catalyst Circle's problem board](<Funded Proposer Problems.md>)
-
-## Funded Proposers Sub CIrcle
-
-* [About the Funded Proposers Sub-circle](sub-circle/funded-proposer-sub-circle.md)
