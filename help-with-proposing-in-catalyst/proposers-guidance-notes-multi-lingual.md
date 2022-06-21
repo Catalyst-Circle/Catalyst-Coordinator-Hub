@@ -9,6 +9,7 @@ coverY: 0
 * Aqui você pode baixar notas de orientação sobre como preencher o formulário de envio de proposta do Catalyst.
 * Ici, vous pouvez télécharger des notes d'orientation sur la façon de remplir le formulaire de soumission de proposition Catalyst.
 * Here you can download guidance notes for how to complete the Catalyst proposal submission form.
+* Hapa unaweza kupakua vidokezo vya mwongozo wa jinsi ya kujaza fomu ya kuwasilisha pendekezo la Catalyst.
 
 ### en español
 
@@ -36,4 +37,6 @@ Written in English by the Funded Proposers Sub-Circle with input from the Cataly
 
 ### kwa kiswahili
 
-coming soon/ inakuja hivi karibuni
+{% file src="../.gitbook/assets/Vidokezo vya mwongozo wa Fomu ya Uwasilishaji wa Pendekezo.pdf" %}
+Translated from English by Jamaafulan
+{% endfile %}
