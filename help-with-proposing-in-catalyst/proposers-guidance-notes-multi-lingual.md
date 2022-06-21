@@ -13,15 +13,27 @@ coverY: 0
 ### en español
 
 {% file src="../.gitbook/assets/Formulario_de_presentacion_de_propuestas_catalizadoras_notas_orientativas.pdf" %}
+Translated from English by Translator Team Cardano Latam Community
+{% endfile %}
 
 ### em português
 
 {% file src="../.gitbook/assets/Formulário de submissão de proposta do Catalyst notas de orientação.pdf" %}
+Translated from English by Translator Team Cardano Latam Community
+{% endfile %}
 
 ### en français
 
-{% file src="../.gitbook/assets/Formulaire de Soumission de Projet Notes D’orientation.docx" %}
+{% file src="../.gitbook/assets/Formulaire de Soumission de Projet Notes D’orientation.pdf" %}
+translated from English by Wada
+{% endfile %}
 
 ### in English
 
 {% file src="../.gitbook/assets/Catalyst Proposal Submission Form guidance notes.pdf" %}
+Written in English by the Funded Proposers Sub-Circle with input from the Catalyst Community
+{% endfile %}
+
+### kwa kiswahili
+
+coming soon/ inakuja hivi karibuni
