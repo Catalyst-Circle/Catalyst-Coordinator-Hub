@@ -10,6 +10,7 @@ coverY: 0
 * Ici, vous pouvez télécharger des notes d'orientation sur la façon de remplir le formulaire de soumission de proposition Catalyst.
 * Here you can download guidance notes for how to complete the Catalyst proposal submission form.
 * Hapa unaweza kupakua vidokezo vya mwongozo wa jinsi ya kujaza fomu ya kuwasilisha pendekezo la Catalyst.
+* يمكنك هنا تنزيل الملاحظات الإرشادية حول كيفية إكمال نموذج إرسال اقتراح Catalyst
 
 ### en español
 
@@ -26,7 +27,7 @@ Translated from English by Translator Team Cardano Latam Community
 ### en français
 
 {% file src="../.gitbook/assets/Formulaire de Soumission de Projet Notes D’orientation.pdf" %}
-translated from English by Wada
+translated from English by Laurentine Djata
 {% endfile %}
 
 ### in English
@@ -40,3 +41,11 @@ Written in English by the Funded Proposers Sub-Circle with input from the Cataly
 {% file src="../.gitbook/assets/Vidokezo vya mwongozo wa Fomu ya Uwasilishaji wa Pendekezo.pdf" %}
 Translated from English by Jamaafulan
 {% endfile %}
+
+**بالعربية**
+
+{% file src="../.gitbook/assets/ملاحظات إرشادية لنموذج تقديم اقتراح المحفز.pdf" %}
+Translated from English by Elias M
+{% endfile %}
+
+****
