@@ -10,7 +10,7 @@ coverY: 0
 * Ici, vous pouvez télécharger des notes d'orientation sur la façon de remplir le formulaire de soumission de proposition Catalyst.
 * Here you can download guidance notes for how to complete the Catalyst proposal submission form.
 * Hapa unaweza kupakua vidokezo vya mwongozo wa jinsi ya kujaza fomu ya kuwasilisha pendekezo la Catalyst.
-* يمكنك هنا تنزيل الملاحظات الإرشادية حول كيفية إكمال نموذج إرسال اقتراح Catalyst
+* هنا يمكنك تنزيل الدليل الإرشادي لنمودج تقديم مقترح مشروع Catalyst
 
 ### en español
 
