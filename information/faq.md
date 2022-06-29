@@ -21,7 +21,7 @@ After you have completed a "_proof of life_" you will receive a [test transactio
 After you have confirmed your test transaction a portion of the funds granted in your proposal will be released.
 
 {% hint style="info" %}
-See the [Funds section ](../managing-funds/funds.md)for further information
+See the [Funds section ](../funds/funds.md)for further information
 {% endhint %}
 
 ## Monthly Reporting
@@ -41,7 +41,7 @@ See the [Reporting section](../reporting/reporting.md) for further information
 Coordinator (Funded Cohort) Meetings are held every two weeks. The IOHK Team hosts and presents relevant announcements and information. Then Coordinators give "Stand up" updates on their proposals.
 
 {% hint style="info" %}
-See the [Meetings section](../funded-proposers-and-iohk/meetings.md) for further information
+See the [Meetings section](meetings.md) for further information
 {% endhint %}
 
 ## List of Funded Proposals

@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/coord.png
 coverY: 0
 ---
 
-# Meetings
+# Catalsy Coordinator Meetings
 
 ## March 22nd 2022
 

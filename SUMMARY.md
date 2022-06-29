@@ -17,7 +17,7 @@
 
 ## Managing Funds
 
-* [Funds](managing-funds/funds.md)
+* [Funds](funds/funds.md)
 * [Exchange rates of monthly payments](managing-funds/exchange-rates-of-monthly-payments.md)
 * [Ways to manage price fluctuations](managing-funds/ways-to-manage-price-fluctuations.md)
 
@@ -45,5 +45,5 @@
 
 ## Funded proposers and IOHK
 
-* [Meet the IOHK Team](funded-proposers-and-iohk/meet-the-iohk-team.md)
-* [Catalsy Coordinator Meetings](funded-proposers-and-iohk/meetings.md)
+* [Meet the IOHK Team](information/meet-the-iohk-team.md)
+* [Catalsy Coordinator Meetings](information/meetings.md)

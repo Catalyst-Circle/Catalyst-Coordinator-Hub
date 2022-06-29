@@ -6,8 +6,6 @@ coverY: 0
 
 # Meet the IOHK Team
 
-
-
 | Who               | Role                                | What they can help with                       |
 | ----------------- | ----------------------------------- | --------------------------------------------- |
 | Daniel Ribar      | Community Manager                   | General community matters; good news stories! |
