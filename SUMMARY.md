@@ -5,8 +5,6 @@
 ## Information
 
 * [Quick Start - FAQ](information/faq.md)
-* [Meet the IOHK Team](information/meet-the-iohk-team.md)
-* [Catalsy Coordinator Meetings](information/meetings.md)
 
 ## Help with proposing in Catalyst
 
@@ -17,9 +15,11 @@
 * [F8 : Onboarding](on-boarding/onboarding-f8-challenge-teams.md)
 * [F7 : Onboarding](on-boarding/onboarding.md)
 
-## Funds
+## Managing Funds
 
-* [Funds](funds/funds.md)
+* [Funds](managing-funds/funds.md)
+* [Exchange rates of monthly payments](managing-funds/exchange-rates-of-monthly-payments.md)
+* [Ways to manage price fluctuations](managing-funds/ways-to-manage-price-fluctuations.md)
 
 ## Reporting
 
@@ -42,3 +42,8 @@
 
 * [Funded Proposer Representatives on Catalyst Circle](circle-representation.md)
 * [Funded Proposer Problems on Catalyst Circle's problem board](<Funded Proposer Problems.md>)
+
+## Funded proposers and IOHK
+
+* [Meet the IOHK Team](funded-proposers-and-iohk/meet-the-iohk-team.md)
+* [Catalsy Coordinator Meetings](funded-proposers-and-iohk/meetings.md)
