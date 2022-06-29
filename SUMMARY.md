@@ -17,7 +17,7 @@
 
 ## Managing Funds
 
-* [Funds](funds/funds.md)
+* [How you will receive funds](funds/funds.md)
 * [Exchange rates of monthly payments](managing-funds/exchange-rates-of-monthly-payments.md)
 * [Ways to manage price fluctuations](managing-funds/ways-to-manage-price-fluctuations.md)
 
@@ -26,12 +26,6 @@
 * [Reporting](reporting/reporting.md)
 * [Closing your project](reporting/closing-your-project.md)
 * [Good Practice](reporting/best-practice.md)
-
-## Fund 7 Proposal
-
-* [Overview](fund-7-proposal/overview.md)
-* [Budget](fund-7-proposal/budget.md)
-* [Reporting](fund-7-proposal/reporting.md)
 
 ## The Funded Proposers Sub CIrcle
 
@@ -47,3 +41,9 @@
 
 * [Meet the IOHK Team](information/meet-the-iohk-team.md)
 * [Catalsy Coordinator Meetings](information/meetings.md)
+
+## Fund 7 Proposal, Catalyst Coordinator Hub
+
+* [Overview](fund-7-proposal-catalyst-coordinator-hub/overview.md)
+* [Budget](fund-7-proposal-catalyst-coordinator-hub/budget.md)
+* [Reporting](fund-7-proposal-catalyst-coordinator-hub/reporting.md)
