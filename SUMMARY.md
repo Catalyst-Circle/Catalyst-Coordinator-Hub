@@ -9,6 +9,7 @@
 ## Help with proposing in Catalyst
 
 * [Proposers' Guidance Notes: multi-lingual](help-with-proposing-in-catalyst/proposers-guidance-notes-multi-lingual.md)
+* [A Proposer's Guide to Flagging - multi-lingual](help-with-proposing-in-catalyst/a-proposers-guide-to-flagging-multi-lingual.md)
 
 ## Onboarding as a new Funded Proposer
 

@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/pointer banner.jpg
-coverY: 0
+coverY: 35.5589519650655
 ---
 
 # Proposers' Guidance Notes: multi-lingual
@@ -42,7 +42,7 @@ Written in English by the Funded Proposers Sub-Circle with input from the Cataly
 Translated from English by Jamaafulan
 {% endfile %}
 
-**بالعربية**
+### **بالعربية**
 
 {% file src="../.gitbook/assets/ملاحظات إرشادية لنموذج تقديم اقتراح المحفز.pdf" %}
 Translated from English by Elias M
