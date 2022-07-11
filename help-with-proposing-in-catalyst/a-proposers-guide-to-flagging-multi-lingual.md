@@ -21,7 +21,9 @@ translated from English by Laurentine Djata
 
 ### in English
 
-coming soon
+{% file src="../.gitbook/assets/A proposer's guide to assessment-flagging.pdf" %}
+Written in English by the Funded Proposers Sub-Circle with input from the Catalyst Community
+{% endfile %}
 
 ### kwa kiswahili
 
