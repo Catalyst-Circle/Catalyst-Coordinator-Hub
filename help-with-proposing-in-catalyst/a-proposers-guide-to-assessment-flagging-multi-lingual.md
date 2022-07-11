@@ -9,11 +9,13 @@ coverY: -45.414847161572055
 * Here you can download guidance notes for how to flag inadequate PA assessments on your proposal.
 * Hapa unaweza kupakua vidokezo vya mwongozo wa jinsi ya kuripoti tathmini zisizotosheleza za kwenye pendekezo lako.
 
-
-
 ### en español
 
-coming soon
+text guide coming soon
+
+{% embed url="https://youtu.be/LBuNE7KIXgY" %}
+Alex Pestchanker demuestra la manera de marcar evaluaciones deficientes
+{% endembed %}
 
 ### em português
 
