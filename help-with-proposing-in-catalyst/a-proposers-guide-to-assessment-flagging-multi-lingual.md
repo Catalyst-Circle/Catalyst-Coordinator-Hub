@@ -33,6 +33,10 @@ translated from English by Laurentine Djata
 Written in English by the Funded Proposers Sub-Circle with input from the Catalyst Community
 {% endfile %}
 
+{% embed url="https://youtu.be/LzRoI7FnSXA" %}
+Vanessa Cardui shows you how to flag an assessment on your proposal
+{% endembed %}
+
 ### kwa kiswahili
 
 {% file src="../.gitbook/assets/Mwongozo wa mpendekezaji wa kuripoti tathmini.pdf" %}
