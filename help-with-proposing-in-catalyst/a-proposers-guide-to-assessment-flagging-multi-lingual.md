@@ -8,6 +8,7 @@ coverY: -45.414847161572055
 * Ici, vous pouvez télécharger des notes d'orientation sur la façon de signaler les évaluations d'EP inadéquates sur votre proposition.
 * Here you can download guidance notes for how to flag inadequate PA assessments on your proposal.
 * Hapa unaweza kupakua vidokezo vya mwongozo wa jinsi ya kuripoti tathmini zisizotosheleza za kwenye pendekezo lako.
+* هنا يمكنكم تنزيل دليل مقترح مشروع للإبلاغ عن تقييمات غير ملائمة
 
 ### en español
 
