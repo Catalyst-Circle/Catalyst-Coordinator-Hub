@@ -45,4 +45,6 @@ Translated from English by Jamaafulan
 
 ### **بالعربية**
 
-coming soon
+{% file src="../.gitbook/assets/دليل مقدم مقترح مشروع إلى الإبلاغ عن التقييم.pdf" %}
+Translated from English by Elias M
+{% endfile %}
