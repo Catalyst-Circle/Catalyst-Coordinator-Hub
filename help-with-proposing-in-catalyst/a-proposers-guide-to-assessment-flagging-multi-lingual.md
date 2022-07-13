@@ -19,7 +19,9 @@ coverY: -45.414847161572055
 Translated from English by Translator Team Cardano Latam Community
 {% endfile %}
 
-{% embed url="https://youtu.be/Vh__o0Kv8yc" %}
+{% embed url="https://youtu.be/LBuNE7KIXgY" %}
+Alex Pestchanker le muestra cómo marcar una evaluación en su propuesta
+{% endembed %}
 
 ### em português
 
