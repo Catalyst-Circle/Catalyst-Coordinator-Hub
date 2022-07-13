@@ -19,17 +19,13 @@ coverY: -45.414847161572055
 Translated from English by Translator Team Cardano Latam Community
 {% endfile %}
 
-{% embed url="https://youtu.be/LBuNE7KIXgY" %}
-Alex Pestchanker demuestra la manera de marcar evaluaciones deficientes
-{% endembed %}
+{% embed url="https://youtu.be/Vh__o0Kv8yc" %}
 
 ### em português
 
 {% file src="../.gitbook/assets/[PORTUGUESE] Guia do proponente para sinalização (flagging) de avaliação.pdf" %}
 Translated from English by Translator Team Cardano Latam Community
 {% endfile %}
-
-
 
 ### en français
 
@@ -50,8 +46,6 @@ Vanessa Cardui shows you how to flag an assessment on your proposal
 ### kwa kiswahili
 
 {% file src="../.gitbook/assets/Mwongozo wa mpendekezaji wa kuripoti tathmini.pdf" %}
-Translated from English by Jamaafulan
-{% endfile %}
 
 ### **بالعربية**
 
