@@ -12,7 +12,9 @@ coverY: -45.414847161572055
 
 ### en español
 
-text guide coming soon
+{% file src="../.gitbook/assets/[ESPAÑOL] Guía del proponente para la señalización (flagging) de evaluaciones.pdf" %}
+Translated from English by Translator Team Cardano Latam Community
+{% endfile %}
 
 {% embed url="https://youtu.be/LBuNE7KIXgY" %}
 Alex Pestchanker demuestra la manera de marcar evaluaciones deficientes
@@ -20,7 +22,11 @@ Alex Pestchanker demuestra la manera de marcar evaluaciones deficientes
 
 ### em português
 
-coming soon
+{% file src="../.gitbook/assets/[PORTUGUESE] Guia do proponente para sinalização (flagging) de avaliação.pdf" %}
+Translated from English by Translator Team Cardano Latam Community
+{% endfile %}
+
+
 
 ### en français
 
