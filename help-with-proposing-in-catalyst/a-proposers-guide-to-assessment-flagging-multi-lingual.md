@@ -11,6 +11,7 @@ coverY: -45.414847161572055
 * Here you can download guidance notes for how to flag inadequate PA assessments on your proposal.
 * Hapa unaweza kupakua vidokezo vya mwongozo wa jinsi ya kuripoti tathmini zisizotosheleza za kwenye pendekezo lako.
 * هنا يمكنكم تنزيل دليل مقترح مشروع للإبلاغ عن تقييمات غير ملائمة
+* 在這裡，您可以下載指導說明，了解如何在您的提案中標記不充分的 PA 評估。
 
 ### en español
 
@@ -56,4 +57,10 @@ Translated from English by Jamaafulan
 
 {% file src="../.gitbook/assets/دليل مقدم مقترح مشروع إلى الإبلاغ عن التقييم.pdf" %}
 Translated from English by Elias M
+{% endfile %}
+
+### 用中文寫的
+
+{% file src="../.gitbook/assets/建议的报告评估指南.pdf" %}
+Translated from English by Paul
 {% endfile %}
