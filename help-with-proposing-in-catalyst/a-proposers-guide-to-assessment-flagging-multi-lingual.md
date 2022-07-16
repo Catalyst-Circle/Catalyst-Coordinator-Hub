@@ -69,3 +69,5 @@ Translated from English by Eastern Town Hall Translation Team
 {% endfile %}
 
 {% embed url="https://youtu.be/uZp8U0Kf8NQ" %}
+Flagging Hướng dẫn Người đề xuất cắm cờ bài đánh giá
+{% endembed %}
