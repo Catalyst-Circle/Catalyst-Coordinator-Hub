@@ -32,6 +32,8 @@
 
 * [About the Funded Proposers Sub-circle](the-funded-proposers-sub-circle/funded-proposer-sub-circle.md)
 * [Minutes of Sub-Circle Meetings ](the-funded-proposers-sub-circle/sub-circle-meetings.md)
+* [Funded Proposer SubCircle budget](the-funded-proposers-sub-circle/funded-proposer-subcircle-budget.md)
+* [Circle Rapid Funding budget](the-funded-proposers-sub-circle/circle-rapid-funding-budget.md)
 
 ## Funded Proposers and Catalyst Circle
 
