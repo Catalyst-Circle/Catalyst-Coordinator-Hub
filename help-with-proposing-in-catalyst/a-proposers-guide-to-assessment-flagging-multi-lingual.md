@@ -12,6 +12,7 @@ coverY: -45.414847161572055
 * Hapa unaweza kupakua vidokezo vya mwongozo wa jinsi ya kuripoti tathmini zisizotosheleza za kwenye pendekezo lako.
 * هنا يمكنكم تنزيل دليل مقترح مشروع للإبلاغ عن تقييمات غير ملائمة
 * 在這裡，您可以下載指導說明，了解如何在您的提案中標記不充分的 PA 評估。
+* Bạn có thể tải hướng dẫn cách cắm cờ những đánh giá PA không phù hợp cho dự án của bạn tại đây.
 
 ### en español
 
@@ -60,3 +61,10 @@ Translated from English by Elias M
 {% file src="../.gitbook/assets/建议的报告评估指南.pdf" %}
 Translated from English by Paul
 {% endfile %}
+
+### bằng tiếng việt
+
+{% file src="../.gitbook/assets/Hướng dẫn cắm cờ đánh giá cho chủ dự án.pdf" %}
+Translated from English by Eastern Town Hall Translation Team
+{% endfile %}
+
