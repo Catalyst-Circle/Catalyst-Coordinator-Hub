@@ -5,14 +5,14 @@ coverY: -45.414847161572055
 
 # A Proposer's Guide to Assessment Flagging (multi-lingual)
 
-* Aquí puede descargar notas de orientación sobre cómo señalar evaluaciones deficientes en su propuesta.
-* Aqui você pode baixar notas de orientação sobre como sinalizar avaliações de PA inadequadas em sua proposta.
-* Ici, vous pouvez télécharger des notes d'orientation sur la façon de signaler les évaluations d'EP inadéquates sur votre proposition.
-* Here you can download guidance notes for how to flag inadequate PA assessments on your proposal.
-* Hapa unaweza kupakua vidokezo vya mwongozo wa jinsi ya kuripoti tathmini zisizotosheleza za kwenye pendekezo lako.
-* هنا يمكنكم تنزيل دليل مقترح مشروع للإبلاغ عن تقييمات غير ملائمة
-* 在這裡，您可以下載指導說明，了解如何在您的提案中標記不充分的 PA 評估。
-* Bạn có thể tải hướng dẫn cách cắm cờ những đánh giá PA không phù hợp cho dự án của bạn tại đây.
+* [Aquí puede descargar notas de orientación sobre cómo señalar evaluaciones deficientes en su propuesta.](a-proposers-guide-to-assessment-flagging-multi-lingual.md#en-espanol)
+* [Aqui você pode baixar notas de orientação sobre como sinalizar avaliações de PA inadequadas em sua proposta.](a-proposers-guide-to-assessment-flagging-multi-lingual.md#em-portugues)
+* [Ici, vous pouvez télécharger des notes d'orientation sur la façon de signaler les évaluations d'EP inadéquates sur votre proposition.](a-proposers-guide-to-assessment-flagging-multi-lingual.md#en-francais)
+* H[ere you can download guidance notes for how to flag inadequate PA assessments on your proposal.](a-proposers-guide-to-assessment-flagging-multi-lingual.md#in-english)
+* [Hapa unaweza kupakua vidokezo vya mwongozo wa jinsi ya kuripoti tathmini zisizotosheleza za kwenye pendekezo lako.](a-proposers-guide-to-assessment-flagging-multi-lingual.md#kwa-kiswahili)
+* [هنا يمكنكم تنزيل دليل مقترح مشروع للإبلاغ عن تقييمات غير ملائمة](a-proposers-guide-to-assessment-flagging-multi-lingual.md#balarbyh)
+* [在這裡，您可以下載指導說明，了解如何在您的提案中標記不充分的 PA 評估。](a-proposers-guide-to-assessment-flagging-multi-lingual.md#yong-zhong-wen-xie-de)
+* [Bạn có thể tải hướng dẫn cách cắm cờ những đánh giá PA không phù hợp cho dự án của bạn tại đây.](a-proposers-guide-to-assessment-flagging-multi-lingual.md#bang-tieng-viet)
 
 ### en español
 
