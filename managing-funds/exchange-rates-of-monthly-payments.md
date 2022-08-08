@@ -10,4 +10,5 @@ Monthly payment 9th May 2022                     $0.66
 
 F8 Initial payment, 31st May 2022                    $0.632\
 Monthly payment 13th June 2022                    $0.458\
-Monthly payment 11th July 2022                      $0.452
+Monthly payment 11th July 2022                      $0.452\
+Monthly payment 8th August 2022                  $0.544
