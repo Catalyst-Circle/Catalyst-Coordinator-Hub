@@ -44,7 +44,7 @@
 ## Funded proposers and IOHK
 
 * [Meet the IOHK Team](information/meet-the-iohk-team.md)
-* [Catalsy Coordinator Meetings](information/meetings.md)
+* [Catalyst Coordinator Meetings](information/meetings.md)
 
 ## Fund 7 Proposal, Catalyst Coordinator Hub
 
