@@ -10,7 +10,7 @@ Source : [Project Close Out Process](https://docs.google.com/document/d/1vsWPQVu
 
 **Important notice** - By submitting the project close report and video you allow the Catalyst team to share information you submit in such project close report and video with the wider Cardano community through select channels, including social media platforms. No personal or contact information will be shared. If you do not want your project to be featured or should you require more information, please contact us on catalyst@iohk.io&#x20;
 
-In order for Catalyst to close your project please provide the following two items. Both items (including file or link to video) should be emailed to catalyst@iohk.io.&#x20;
+In order for Catalyst to close your project please provide the following two items. Both items (including file or link to video) should be emailed to <mark style="color:blue;">catalyst@iohk.io</mark>&#x20;
 
 {% hint style="info" %}
 <mark style="color:red;">Please be sure to include your project name and fund # when saving your report document.</mark>&#x20;
