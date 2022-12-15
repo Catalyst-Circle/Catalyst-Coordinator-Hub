@@ -22,5 +22,6 @@ Monthly payment 10th October 2022              $0.4164\
 F9 initial payment, 7th Nov 2022                     $0.4106\
 Monthly payment, 16th Nov 2022                    $0.3268\
 "Missing" initial payments, 23rd Nov 2022      $0.3175\
-Monthly payment, Dec 12th 2022                    $0.3036
+Monthly payment, Dec 12th 2022                    $0.3036\
+"Missing" batches, 15th Dec 2022                    $0.3018
 
