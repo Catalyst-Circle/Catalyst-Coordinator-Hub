@@ -24,5 +24,6 @@ Monthly payment, 16th Nov 2022                    $0.3268\
 "Missing" initial payments, 23rd Nov 2022      $0.3175\
 Monthly payment, 12th Dec 2022                    $0.3036\
 "Missing" batches, 15th Dec 2022                   $0.3018\
-Monthly payment, 9th Jan 2023                      $0.3225
+Monthly payment, 9th Jan 2023                      $0.3225\
+"Missing" batches, 31st Jan 2023                    $0.3877
 
