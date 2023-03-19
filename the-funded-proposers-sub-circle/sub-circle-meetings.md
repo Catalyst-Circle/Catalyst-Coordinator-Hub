@@ -11,3 +11,19 @@
 ## 15th June 2022
 
 Meeting postponed due to several members being unable to attend. Discussions will continue on Telegram.
+
+## 29th June 2022
+
+## 13th July 2022
+
+## 27th July 2022
+
+Hiatus for the month of August
+
+## 13th September 2022
+
+
+
+## 20th Sept 2022
+
+## 5th October 2022

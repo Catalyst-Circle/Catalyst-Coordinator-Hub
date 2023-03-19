@@ -32,6 +32,7 @@
 
 * [About the Funded Proposers Sub-circle](the-funded-proposers-sub-circle/funded-proposer-sub-circle.md)
 * [Minutes of Sub-Circle Meetings ](the-funded-proposers-sub-circle/sub-circle-meetings.md)
+* [Proposer issues raised via montly reporting form](the-funded-proposers-sub-circle/proposer-issues-raised-via-montly-reporting-form.md)
 * [Funded Proposers' Sub-Circle activity log](the-funded-proposers-sub-circle/funded-proposers-sub-circle-activity-log.md)
 * [Funded Proposer SubCircle budget](the-funded-proposers-sub-circle/funded-proposer-subcircle-budget.md)
 * [Circle Rapid Funding budget](the-funded-proposers-sub-circle/circle-rapid-funding-budget.md)
