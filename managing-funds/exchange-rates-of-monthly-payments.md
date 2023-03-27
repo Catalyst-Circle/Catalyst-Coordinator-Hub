@@ -28,5 +28,5 @@ Monthly payment, 9th Jan 2023                      $0.3225\
 "Missing" batches, 31st Jan 2023                    $0.3877\
 Monthly payment, 13th Feb 2023                     $0.3544\
 "Missing" batches, 3rd March 2023                 $0.3367\
-Monthly payment, 14th March 2023                $0.3606
+Monthly payment, 13th March 2023                $0.3606
 
