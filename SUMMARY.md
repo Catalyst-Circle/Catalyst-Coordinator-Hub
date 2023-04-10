@@ -50,6 +50,7 @@
 ## Fund 7 Proposal, Catalyst Coordinator Hub
 
 * [Catalyst-Coordinator Hub Proposal](fund-7-proposal-catalyst-coordinator-hub/overview.md)
+* [Catalyst-Coordinator Prioritized Problems](fund-7-proposal-catalyst-coordinator-hub/catalyst-coordinator-prioritized-problems.md)
 * [Catalyst-Coordinator-Feedback](fund-7-proposal-catalyst-coordinator-hub/catalyst-coordinator-feedback.md)
 * [Reporting](fund-7-proposal-catalyst-coordinator-hub/reporting.md)
 * [F7 Close-out Report](fund-7-proposal-catalyst-coordinator-hub/f7-close-out-report.md)
