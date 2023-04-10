@@ -85,9 +85,11 @@ A number of issues or problems were identified and explored by Catalyst Circle V
 
 ## Key achievements (in particular around collaboration and engagement)&#x20;
 
-Narrative text.
+The Key achievements were :&#x20;
 
-Cover any key outputs, as well as outcomes and achievements. Include any relevant links e.g. to videos, docs.
+1. Building a GitBook to provide reference information for funded proposers and resource to later support the Funded Proposer Sub Circle.
+2. Migrating and maintaining support for the Catalyst Circle Prioritised Problem Board on GitHUb.&#x20;
+3. Documenting A number of issues or problems on the Catalyst Circle Prioritised Problem Board on GitHub and in the Catalyst Coordinator Hub GitBook (later the Funded Proposers Hub GitBook)&#x20;
 
 ## Key learnings
 
