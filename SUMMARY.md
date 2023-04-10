@@ -49,6 +49,8 @@
 
 ## Fund 7 Proposal, Catalyst Coordinator Hub
 
-* [Overview](fund-7-proposal-catalyst-coordinator-hub/overview.md)
-* [Budget](fund-7-proposal-catalyst-coordinator-hub/budget.md)
+* [Catalyst-Coordinator Hub Proposal](fund-7-proposal-catalyst-coordinator-hub/overview.md)
+* [Catalyst-Coordinator-Feedback](fund-7-proposal-catalyst-coordinator-hub/catalyst-coordinator-feedback.md)
 * [Reporting](fund-7-proposal-catalyst-coordinator-hub/reporting.md)
+* [F7 Close-out Report](fund-7-proposal-catalyst-coordinator-hub/f7-close-out-report.md)
+* [Glossary](fund-7-proposal-catalyst-coordinator-hub/glossary.md)
