@@ -15,3 +15,9 @@ This is a summary of the Prioritized Problems raised and worked on by the Cataly
 Originally raised by Catalyst Circle V1 Coordinator Representative as part of original problem sensing.
 
 {% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/37" %}
+
+## Start initiative – anti-scammers bots on social media platforms, preventing bad user experience for new comers and not only.
+
+Initiative started by Dean in Catlyst Circle V1.
+
+{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/45" %}
