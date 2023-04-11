@@ -29,3 +29,11 @@ Start initiative – anti-scammers bots on social media platforms, preventing ba
 Initiative started by Dean in Catlyst Circle V1.
 
 {% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/45" %}
+
+## How do we remove IOHK from every decision made in Catalyst?
+
+{% hint style="info" %}
+IOG: How do we remove IOHK from every decision made in Catalyst? How can we transition from governors to service providers?
+{% endhint %}
+
+Initiative started by IOG.
