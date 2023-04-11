@@ -8,6 +8,8 @@ description: September 2021 to March 2022
 
 This is a summary of the Prioritized Problems raised and worked on by the Catalyst Circle Coordinator (Funded Proposer) Representative.
 
+[Link](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues?q=is%3Aissue+is%3Aopen+label%3A%22Funded+Proposers%22)
+
 <figure><img src="../.gitbook/assets/Screenshot from 2023-04-10 22-52-56.png" alt=""><figcaption><p>Catalyst Circle Problems Board filtered by Funded Proposer</p></figcaption></figure>
 
 ## No systems to track and visualize Trust and Participation
