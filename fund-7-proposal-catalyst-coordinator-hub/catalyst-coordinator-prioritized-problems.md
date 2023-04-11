@@ -49,3 +49,13 @@ Cohort: Almost non existing “collaborative layer” to welcome newcomers
 Initiative started by Catalyst Coordintor Funded Cohort in Circle V1
 
 {% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/48" %}
+
+## Improve awareness of Project Catalyst
+
+{% hint style="info" %}
+Improve awareness of Project Catalyst
+{% endhint %}
+
+Raised in Catalyst Circle V1.
+
+{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/49" %}
