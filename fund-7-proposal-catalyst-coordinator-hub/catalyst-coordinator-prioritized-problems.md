@@ -35,3 +35,11 @@ Initiative started by Catalyst Coordintor Funded Cohort in Circle V1
 {% hint style="info" %}
 Circle relationship with Catalyst Proposals
 {% endhint %}
+
+Raised by Cataltst General Voters, Toolmakers and Coordintor Circle Representatives.
+
+{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/61" %}
+
+Discussed further in this issue -&#x20;
+
+{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/66" %}
