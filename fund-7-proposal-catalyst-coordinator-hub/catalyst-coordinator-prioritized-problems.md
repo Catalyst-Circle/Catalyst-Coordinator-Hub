@@ -73,3 +73,11 @@ Release of Funds from F7 Catalyst Circle - Funding Mechanism
 Raised by Catalyst Circle V3 Coordinator Representative
 
 {% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/76" %}
+
+## How do we ensure that treasury to support admin, community & governance projects become sustainable
+
+{% hint style="info" %}
+How do we ensure that treasury to support admin, community & governance projects become sustainable
+{% endhint %}
+
+{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/77" %}
