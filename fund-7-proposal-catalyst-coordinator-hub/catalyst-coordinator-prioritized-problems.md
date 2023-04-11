@@ -81,3 +81,13 @@ How do we ensure that treasury to support admin, community & governance projects
 {% endhint %}
 
 {% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/77" %}
+
+## Initiate a Code of Conduct for Catalyst Circle Members
+
+{% hint style="info" %}
+Initiate a Code of Conduct for Catalyst Circle Members
+{% endhint %}
+
+Raised by Circle V3 IOG Representative.
+
+{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/83" %}
