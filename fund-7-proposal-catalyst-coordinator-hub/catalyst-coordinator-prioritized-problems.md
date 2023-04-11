@@ -12,3 +12,6 @@ This is a summary of the Prioritized Problems raised and worked on by the Cataly
 
 ## There are no systems to track and visualize Trust and Participation
 
+Originally raised by Catalyst Circle V1 Coordinator Representative as part of original problem sensing.
+
+{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/37" %}
