@@ -12,7 +12,9 @@ This is a summary of the Prioritized Problems raised and worked on by the Cataly
 
 ## No systems to track and visualize Trust and Participation
 
+{% hint style="info" %}
 There are no systems to track and visualize Trust and Participation
+{% endhint %}
 
 Originally raised by Catalyst Circle V1 Coordinator Representative as part of original problem sensing.
 
@@ -20,7 +22,9 @@ Originally raised by Catalyst Circle V1 Coordinator Representative as part of or
 
 ## Anti-scammers bots on social media platforms
 
+{% hint style="info" %}
 Start initiative – anti-scammers bots on social media platforms, preventing bad user experience for new comers and not only
+{% endhint %}
 
 Initiative started by Dean in Catlyst Circle V1.
 
