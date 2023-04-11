@@ -20,26 +20,6 @@ Originally raised by Catalyst Circle V1 Coordinator Representative as part of or
 
 {% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/37" %}
 
-## Anti-scammers bots on social media platforms
-
-{% hint style="info" %}
-Start initiative – anti-scammers bots on social media platforms, preventing bad user experience for new comers and not only
-{% endhint %}
-
-Initiative started by Dean in Catlyst Circle V1.
-
-{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/45" %}
-
-## How do we remove IOHK from every decision made in Catalyst?
-
-{% hint style="info" %}
-IOG: How do we remove IOHK from every decision made in Catalyst? How can we transition from governors to service providers?
-{% endhint %}
-
-Initiative started by IOG.
-
-{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/47" %}
-
 ## Cohort: Almost non existing “collaborative layer” to welcome newcomers
 
 {% hint style="info" %}
@@ -49,13 +29,3 @@ Cohort: Almost non existing “collaborative layer” to welcome newcomers
 Initiative started by Catalyst Coordintor Funded Cohort in Circle V1
 
 {% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/48" %}
-
-## Improve awareness of Project Catalyst
-
-{% hint style="info" %}
-Improve awareness of Project Catalyst
-{% endhint %}
-
-Raised in Catalyst Circle V1.
-
-{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/49" %}
