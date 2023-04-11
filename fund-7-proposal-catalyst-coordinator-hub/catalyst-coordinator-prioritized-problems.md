@@ -50,6 +50,16 @@ Discussed further in this issue -&#x20;
 How to nurture a listening culture in Catalyst
 {% endhint %}
 
-Raised by Catalyst Circle V2 Coordintor Representative
+Raised by Catalyst Circle V2 Coordinator Representative
 
 {% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/69" %}
+
+## Achieve clarification on exact timing of release of funds each month to funded proposers
+
+{% hint style="info" %}
+Achieve clarification on exact timing of release of funds each month to funded proposers
+{% endhint %}
+
+Raised by Catalyst Circle V3 Coordinator Representative
+
+{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/75" %}
