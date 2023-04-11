@@ -43,3 +43,13 @@ Raised by Cataltst General Voters, Toolmakers and Coordintor Circle Representati
 Discussed further in this issue -&#x20;
 
 {% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/66" %}
+
+## How to nurture a listening culture in Catalyst
+
+{% hint style="info" %}
+How to nurture a listening culture in Catalyst
+{% endhint %}
+
+Raised by Catalyst Circle V2 Coordintor Representative
+
+{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/69" %}
