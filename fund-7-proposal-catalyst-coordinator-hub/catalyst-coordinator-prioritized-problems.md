@@ -63,3 +63,13 @@ Achieve clarification on exact timing of release of funds each month to funded p
 Raised by Catalyst Circle V3 Coordinator Representative
 
 {% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/75" %}
+
+## Release of Funds from F7 Catalyst Circle - Funding Mechanism
+
+{% hint style="info" %}
+Release of Funds from F7 Catalyst Circle - Funding Mechanism
+{% endhint %}
+
+Raised by Catalyst Circle V3 Coordinator Representative
+
+{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/76" %}
