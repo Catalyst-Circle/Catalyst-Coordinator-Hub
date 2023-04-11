@@ -20,7 +20,7 @@ Originally raised by Catalyst Circle V1 Coordinator Representative as part of or
 
 {% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/37" %}
 
-## Cohort: Almost non existing “collaborative layer” to welcome newcomers
+## Almost non existing “collaborative layer” to welcome newcomers
 
 {% hint style="info" %}
 Cohort: Almost non existing “collaborative layer” to welcome newcomers
@@ -29,3 +29,9 @@ Cohort: Almost non existing “collaborative layer” to welcome newcomers
 Initiative started by Catalyst Coordintor Funded Cohort in Circle V1
 
 {% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/48" %}
+
+## Circle relationship with Catalyst Proposals
+
+{% hint style="info" %}
+Circle relationship with Catalyst Proposals
+{% endhint %}
