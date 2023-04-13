@@ -91,9 +91,23 @@ The Key achievements were :&#x20;
 2. Migrating and maintaining support for the Catalyst Circle Prioritised Problem Board on GitHUb.&#x20;
 3. Documenting A number of issues or problems on the Catalyst Circle Prioritised Problem Board on GitHub and in the Catalyst Coordinator Hub GitBook (later the Funded Proposers Hub GitBook)&#x20;
 
-## Key learnings
+## Key learnings <a href="#docs-internal-guid-66eb2195-7fff-94b4-c76f-2649af5cce60" id="docs-internal-guid-66eb2195-7fff-94b4-c76f-2649af5cce60"></a>
 
-Narrative text and any relevant links. Include any key recommendations
+### Feedback
+
+Create and maintain a timely feedback mechanism.  Opening and closing issues of concern to the community.
+
+### Education
+
+Mentor and induct people into community participation.
+
+### Engagement
+
+Communicate governance activities on social media. Install Google Analytics for monitoring and reporting engagement.
+
+### Next steps
+
+The F7 Catalyst-Coordinator Hub proposal provided infrastructure for the subsequent F8 Proposers Hub proposal. See close out video here - https://youtu.be/KEWlXdfw1JE
 
 ## Next steps
 
