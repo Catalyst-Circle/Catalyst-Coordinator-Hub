@@ -105,13 +105,9 @@ Mentor and induct people into community participation.
 
 Communicate governance activities on social media. Install Google Analytics for monitoring and reporting engagement.
 
-### Next steps
-
-The F7 Catalyst-Coordinator Hub proposal provided infrastructure for the subsequent F8 Proposers Hub proposal. See close out video here - https://youtu.be/KEWlXdfw1JE
-
 ## Next steps
 
-Narrative text. Include follow-onm proposals; anything related that team members are doing
+The F7 Catalyst-Coordinator Hub proposal provided infrastructure for the subsequent F8 Proposers Hub proposal. See close out video here - https://youtu.be/KEWlXdfw1JE
 
 ## Final thoughts (optional)
 
