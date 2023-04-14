@@ -109,10 +109,6 @@ Communicate governance activities on social media. Install Google Analytics for 
 
 The F7 Catalyst-Coordinator Hub proposal provided infrastructure for the subsequent F8 Proposers Hub proposal. See close out video here - https://youtu.be/KEWlXdfw1JE
 
-## Final thoughts (optional)
-
-Narrative text. This might not be needed if you’ve already said everything you need to say
-
 ## Links to project sources or documents
 
 * MUST include a link to close-out video, which MUST be public.
