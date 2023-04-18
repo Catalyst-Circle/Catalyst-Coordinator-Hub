@@ -111,5 +111,7 @@ The F7 Catalyst-Coordinator Hub proposal provided infrastructure for the subsequ
 
 ## Links to project sources or documents
 
-* MUST include a link to close-out video, which MUST be public.
-* Also can include GitBook documentation; GitHub; any relevant Discord or Telegram channel; any other relevant YouTube videos; etc
+* Close-ot video: [https://youtu.be/JWzofocIvXc](https://youtu.be/JWzofocIvXc)
+* GitBook : [https://quality-assurance-dao.gitbook.io/funded-proposers-hub/fund-7-proposal-catalyst-coordinator-hub/overview](https://quality-assurance-dao.gitbook.io/funded-proposers-hub/fund-7-proposal-catalyst-coordinator-hub/overview)
+* GitHub : Catalyst Coordinator Feedback : [https://github.com/Catalyst-Circle/Catalyst-Coordinator-Feedback](https://github.com/Catalyst-Circle/Catalyst-Coordinator-Feedback)
+* GitHub : Prioritised Problem Board : [https://github.com/orgs/Catalyst-Circle/projects/8](https://github.com/orgs/Catalyst-Circle/projects/8)
