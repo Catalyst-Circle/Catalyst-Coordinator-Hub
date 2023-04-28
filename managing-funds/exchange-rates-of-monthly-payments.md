@@ -30,5 +30,6 @@ Monthly payment, 13th Feb 2023                     $0.3544\
 "Missing" batches, 3rd March 2023                 $0.3367\
 Monthly payment, 13th March 2023                $0.3606\
 "Missing" batches, 27th March 2023               $0.3541\
-Monthly payment, 11th April 2023                    $0.4063 (NB On a Tuesday due to Easter)
+Monthly payment, 11th April 2023                    $0.4063 (NB On a Tuesday due to Easter)\
+"Extra" batches, 25th April 2023                      $0.3837  [https://t.me/c/1522687916/270](https://t.me/c/1522687916/270)
 
