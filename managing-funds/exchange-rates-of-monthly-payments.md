@@ -35,5 +35,6 @@ Monthly payment, 11th April 2023                    $0.4063 (NB On a Tuesday due
 Monthly payment 8th May 2023                       $0.3736 [https://t.me/c/1522687916/275](https://t.me/c/1522687916/275)\
 "Missing" batches, 10th May 2023                   $0.3678 [https://t.me/c/1522687916/278](https://t.me/c/1522687916/278)\
 "Missing" batches, 26th May 2023                   $0.3607 [https://t.me/c/1522687916/284](https://t.me/c/1522687916/284)\
-Monthly payment 12th June 2023                    $0.2808 [https://t.me/c/1522687916/291](https://t.me/c/1522687916/291)
+Monthly payment 12th June 2023                    $0.2808 [https://t.me/c/1522687916/291](https://t.me/c/1522687916/291)\
+"Extra" batches, 2th June 2023                        $0.2894 [https://t.me/c/1522687916/298](https://t.me/c/1522687916/298)
 
