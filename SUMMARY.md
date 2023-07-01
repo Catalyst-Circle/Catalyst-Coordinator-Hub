@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Funded Proposers Hub](README.md)
+* [Proposers' Hub](README.md)
 
 ## Information
 
