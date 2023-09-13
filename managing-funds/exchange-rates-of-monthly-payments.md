@@ -41,5 +41,6 @@ Monthly payment 10th July 2023                      $0.2867 [https://t.me/c/1522
 Extra batches, 21st July 2023                           $0.3143 [https://t.me/c/1522687916/310](https://t.me/c/1522687916/310)\
 Monthly payments, 14th Aug 2023                   $0.2896 [https://t.me/c/1522687916/318](https://t.me/c/1522687916/318)\
 Extra batches, 28th Aug 2023                           $0.2632 [https://t.me/c/1522687916/326](https://t.me/c/1522687916/326)\
+Monthly payments, 11th Sept 2023                   $0.2451 [https://t.me/c/1522687916/329](https://t.me/c/1522687916/329)\
 
 
