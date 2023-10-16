@@ -17,7 +17,7 @@ Monthly payment 12th Sept 2022                    $0.5151\
 Monthly payment 10th October 2022              $0.4164\
 "Missing" batches, 17th Oct 2022                    $0.3712
 
-**Fund 9**
+#### **Fund 9**
 
 F9 initial payment, 7th Nov 2022                     $0.4106\
 Monthly payment, 16th Nov 2022                    $0.3268\
@@ -43,6 +43,10 @@ Monthly payments, 14th Aug 2023                   $0.2896 [https://t.me/c/152268
 Extra batches, 28th Aug 2023                          $0.2632 [https://t.me/c/1522687916/326](https://t.me/c/1522687916/326)\
 Monthly payments, 11th Sept 2023                  $0.2451 [https://t.me/c/1522687916/329](https://t.me/c/1522687916/329)\
 Extra batches,  28th Sept 2023                        $0.2484 [https://t.me/c/1522687916/336](https://t.me/c/1522687916/336)\
-Monthly payments, 9th Oct 2023                     $0.2512 [https://t.me/c/1522687916/340](https://t.me/c/1522687916/340)\
+Monthly payments, 9th Oct 2023                     $0.2512 [https://t.me/c/1522687916/340](https://t.me/c/1522687916/340)
+
+#### Fund 10
+
+F10 initial payment, 16th Oct 2023                   $0.2518  [https://t.me/c/1522687916/344](https://t.me/c/1522687916/344)\
 
 
